@@ -18,8 +18,6 @@ import SignUpView from '@/views/signIn-and-signUp/SignUpView.vue'
 
 //PROFILE VIEWS
 import DashboardView from '@/views/profile/DashboardView.vue'
-import SecuriteView from '@/views/profile/SecuriteView.vue'
-import SuportView from '@/views/profile/SuportView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -67,25 +65,9 @@ const router = createRouter({
       ],
     },
     {
-      path: '/minha-conta/',
+      path: '/minha-conta',
       name: 'profile',
-      children: [
-        {
-          path: 'perfil',
-          name: 'dashboard',
-          component: DashboardView,
-        },
-        {
-          path: 'seguranca',
-          name: 'security',
-          component: SecuriteView,
-        },
-        {
-          path: 'suporte',
-          name: 'support',
-          component: SuportView
-        }
-      ],
+      component: DashboardView,
     },
     {
       path: '/auth/',
@@ -94,15 +76,15 @@ const router = createRouter({
         {
           path: 'login',
           name: 'signIn',
-          component: SignInView
+          component: SignInView,
         },
         {
           path: 'cadastre-se',
           name: 'signUp',
-          component: SignUpView
-        }
-      ]
-    }
+          component: SignUpView,
+        },
+      ],
+    },
   ],
 })
 
