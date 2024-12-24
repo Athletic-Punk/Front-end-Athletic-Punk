@@ -3,10 +3,10 @@ import { ref } from 'vue'
 
 const index = ref(0)
 const cards = [
-  { id: 0, content: 'Content 1' },
-  { id: 1, content: 'Content 2' },
-  { id: 2, content: 'Content 3' },
-  { id: 3, content: 'Content 4' },
+  { id: 0, content: '/public/general/home/', link: '/esporte/basquete', sport: 'Basquete' },
+  { id: 1, content: '/public/general/home/', link: '/esporte/ginastica', sport: 'Ginástica' },
+  { id: 2, content: '/public/general/home/', link: '/esporte/futebol', sport: 'Futebol' },
+  { id: 3, content: '/public/general/home/', link: '/esporte/volei',  sport: 'Vôlei' }
 ]
 
 function getCardStyle(cardIndex) {
@@ -69,7 +69,7 @@ setInterval(() => {
         :key="card.id"
         class="card"
         :style="getCardStyle(card.id)">
-        {{ card.content }}
+        <RouterLink :to="card.link"><img :src="card.content" :alt="card.sport"/></RouterLink>
       </div>
     </div>
   </section>
@@ -115,8 +115,14 @@ setInterval(() => {
       height: 211px;
       background-color: lightgray;
       border-radius: 20px;
-      transition: transform 0.5s ease, z-index 0.5s;
+      transition: transform 0.5s ease, z-index 0.5s ease;
       text-align: center;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+      }
     }
   }
 }
