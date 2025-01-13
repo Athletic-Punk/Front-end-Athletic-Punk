@@ -1,5 +1,5 @@
-<template class="is-desktop">
-  <footer>
+<template>
+  <footer class="is-desktop">
     <p>&copy; 2024 Alguns direitos reservados - Athletic Punk</p>
     <a href=""><i class="fa-brands fa-instagram"></i></a>
     <a href=""><i class="fa-regular fa-envelope"></i></a>

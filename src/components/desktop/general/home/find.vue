@@ -1,5 +1,5 @@
-<template class="is-desktop">
-  <section id="find">
+<template>
+  <section class="is-desktop">
     <h2>
       O QUE VOCÊ PODE <span class="text-blue">ENCONTRAR</span> EM NOSSO
       <span class="text-yellow">SITE</span>
@@ -33,13 +33,13 @@
 </template>
 
 <style scoped>
-#find {
+section {
   margin: 5vw;
 
   h2 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 64px;
-    line-height: 32px;
+    line-height: 3.125vw;
     text-align: center;
     color: #1d7935;
 
@@ -53,9 +53,9 @@
   }
 
   hr {
-    width: 528px;
+    width: 27.5vw;
     height: 2px;
-    margin-top: 25px;
+    margin-top: 1.302vw;
     text-align: center;
     border: none;
     background-color: #369950;
@@ -68,17 +68,16 @@
     div {
       display: block;
       text-align: center;
-      width: 392px;
-      height: 420px;
-      margin: 3vw 20px 20px 20px;
-      padding: 50px 20px 50px 20px;
+      width: 20.417vw;
+      margin: 3vw 1.042vw 1.042vw 1.042vw;
+      padding: 2.604vw 1.042vw 2.604vw 1.042vw;
 
       h3 {
         font-family: "Bebas Neue", sans-serif;
         font-size: 64px;
-        line-height: 32px;
+        line-height: 60px;
         color: #FFFDFD;
-        margin-top: 50px;
+        margin-top: 2.604vw;
       }
 
       p {
@@ -101,7 +100,7 @@
       background-color: #2BB24F;
       border: 5px solid #0B72E8;
       border-radius: 10px;
-      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      box-shadow: 0 0.208vw 0.208vw rgba(0, 0, 0, 0.25);
     }
   }
 }

@@ -6,7 +6,6 @@ import ContactView from '@/views/general/ContactView.vue'
 import SportsView from '@/views/general/SportsView.vue'
 
 //SPORTS VIEWS
-import SportView from '@/views/sports/SportView.vue'
 import BasketballView from '@/views/sports/BasketballView.vue'
 import GymnasticsView from '@/views/sports/GymnasticsView.vue'
 import SoccerView from '@/views/sports/SoccerView.vue'
@@ -40,7 +39,6 @@ const router = createRouter({
     {
       path: '/esporte/',
       name: 'sport',
-      component: SportView,
       children: [
         {
           path: 'basquete',

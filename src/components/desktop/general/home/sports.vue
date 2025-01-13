@@ -21,22 +21,22 @@ function getCardStyle(cardIndex) {
       opacity: 0.5,
     },
     {
-      transform: 'translateX(-400px) scale(1)', // Esquerda mais próxima
+      transform: 'translateX(-20.833vw) scale(1)', // Esquerda mais próxima
       zIndex: 2,
       opacity: 0.7,
     },
     {
-      transform: 'translateX(0px) scale(1.5)', // Centro (destacado)
+      transform: 'translateX(0vw) scale(1.5)', // Centro (destacado)
       zIndex: 3,
       opacity: 1,
     },
     {
-      transform: 'translateX(400px) scale(1)', // Direita mais próxima
+      transform: 'translateX(20.833vw) scale(1)', // Direita mais próxima
       zIndex: 2,
       opacity: 0.7,
     },
     {
-      transform: 'translateX(800px) scale(0.85)', // Direita mais distante
+      transform: 'translateX(41.667vw) scale(0.85)', // Direita mais distante
       zIndex: 1,
       opacity: 0.5,
     },
@@ -50,8 +50,8 @@ setInterval(() => {
 }, 3000)
 </script>
 
-<template class="is-desktop">
-  <section id="sports">
+<template>
+  <section class="is-desktop">
     <h2>ESPORTES</h2>
     <hr />
     <p>
@@ -76,21 +76,21 @@ setInterval(() => {
 </template>
 
 <style scoped>
-#sports {
+section {
   margin: 5vw 5vw 20vw 5vw;
 
   h2 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 96px;
-    line-height: 32px;
+    line-height: 4.688vw;
     text-align: center;
     color: #1d7935;
   }
 
   hr {
-    width: 250px;
+    width: 13.021vw;
     height: 2px;
-    margin-top: 35px;
+    margin-top: 1.823vw;
     text-align: center;
     border: none;
     background-color: #369950;
@@ -101,7 +101,7 @@ setInterval(() => {
     font-size: 24px;
     line-height: 45px;
     text-align: center;
-    margin: 40px 0 40px 0;
+    margin: 2.083vw 0 2.083vw 0;
   }
 
   #sports-carousel {
@@ -111,8 +111,8 @@ setInterval(() => {
 
     .card {
       position: absolute;
-      width: 371px;
-      height: 211px;
+      width: 19.323vw;
+      height: 10.99vw;
       background-color: lightgray;
       border-radius: 20px;
       transition: transform 0.5s ease, z-index 0.5s ease;

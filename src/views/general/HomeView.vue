@@ -29,4 +29,8 @@ import FooterView from '@/components/desktop/elements/FooterView.vue'
   justify-content: center;
   margin: 5vw;
 }
+
+.flag:first-of-type {
+  margin-top: 2vw;
+}
 </style>
