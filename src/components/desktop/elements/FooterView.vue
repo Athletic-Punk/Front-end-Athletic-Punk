@@ -11,8 +11,8 @@ footer {
   padding: 5vw;
   background-color: #369950;
   font-family: 'Aldrich', sans-serif;
-  font-size: 22px;
-  line-height: 32px;
+  font-size: 1.346vw;
+  line-height: 1.667vw;
   text-align: center;
   color: #ffffff;
 
@@ -20,8 +20,8 @@ footer {
     color: #ffffff;
 
     i {
-      margin: 15px;
-      font-size: 28px;
+      margin: 0.781vw;
+      font-size: 1.458vw;
     }
   }
 }

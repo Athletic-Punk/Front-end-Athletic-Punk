@@ -81,7 +81,7 @@ section {
 
   h2 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 96px;
+    font-size: 5vw;
     line-height: 4.688vw;
     text-align: center;
     color: #1d7935;
@@ -98,8 +98,8 @@ section {
 
   p {
     font-family: 'Aldrich', sans-serif;
-    font-size: 24px;
-    line-height: 45px;
+    font-size: 1.35vw;
+    line-height: 1.402vw;
     text-align: center;
     margin: 2.083vw 0 2.083vw 0;
   }

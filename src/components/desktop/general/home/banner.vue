@@ -26,8 +26,8 @@ section {
     h1 {
       font-family: 'Bebas Neue';
       font-weight: 400;
-      font-size: 120px;
-      line-height: 120px;
+      font-size: 6.25vw;
+      line-height: 6.25vw;
       color: #0958B1;
       text-align: left;
     }
@@ -35,8 +35,8 @@ section {
     h2 {
       font-family: 'Bebas Neue';
       font-weight: 400;
-      font-size: 70px;
-      line-height: 80px;
+      font-size: 3.646vw;
+      line-height: 4.167vw;
       color: #1D7935;
       text-align: center;
 
@@ -48,7 +48,7 @@ section {
     p {
       font-family: 'Aldrich';
       font-weight: 400;
-      font-size: 24px;
+      font-size: 1.25vw;
       text-align: justify;
       color: #000000;
       border: 5px solid #E4E451;

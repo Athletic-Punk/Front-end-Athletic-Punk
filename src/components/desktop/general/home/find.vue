@@ -38,7 +38,7 @@ section {
 
   h2 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 64px;
+    font-size: 3.333vw;
     line-height: 3.125vw;
     text-align: center;
     color: #1d7935;
@@ -74,16 +74,16 @@ section {
 
       h3 {
         font-family: "Bebas Neue", sans-serif;
-        font-size: 64px;
-        line-height: 60px;
+        font-size: 3.333vw;
+        line-height: 3.125vw;
         color: #FFFDFD;
         margin-top: 2.604vw;
       }
 
       p {
         font-family: "Aldrich", sans-serif;
-        font-size: 20px;
-        line-height: 32px;
+        font-size: 1.342vw;
+        line-height: 1.667vw;
         color: #FFFDFD;
         margin-top: 3vw;
       }
