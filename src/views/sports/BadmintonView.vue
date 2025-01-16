@@ -3,8 +3,8 @@ import HeaderView from '@/components/desktop/elements/HeaderView.vue'
 </script>
 
 <template>
-  <HeaderView/>
+  <HeaderView />
   <section>
-    <h1>ginástica</h1>
+    <h1>Badminton</h1>
   </section>
 </template>

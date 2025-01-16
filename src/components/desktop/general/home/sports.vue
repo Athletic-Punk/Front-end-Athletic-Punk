@@ -3,10 +3,32 @@ import { ref } from 'vue'
 
 const index = ref(0)
 const cards = [
-  { id: 0, content: '/public/general/home/', link: '/esporte/basquete', sport: 'Basquete' },
-  { id: 1, content: '/public/general/home/', link: '/esporte/ginastica', sport: 'Ginástica' },
-  { id: 2, content: '/public/general/home/', link: '/esporte/futebol', sport: 'Futebol' },
-  { id: 3, content: '/public/general/home/', link: '/esporte/volei',  sport: 'Vôlei' }
+  { id: 0, content: '/public/general/home/', link: '/esporte/atletismo', sport: 'Atletismo' },
+  { id: 1, content: '/public/general/home/', link: '/esporte/automobilismo', sport: 'Automobilismo' },
+  { id: 2, content: '/public/general/home/', link: '/esporte/badminton', sport: 'Badminton' },
+  { id: 3, content: '/public/general/home/', link: '/esporte/basquete', sport: 'Basquete' },
+  { id: 4, content: '/public/general/home/', link: '/esporte/beisebol', sport: 'Beisebol' },
+  { id: 5, content: '/public/general/home/', link: '/esporte/boxe', sport: 'Boxe' },
+  { id: 6, content: '/public/general/home/', link: '/esporte/canoagem', sport: 'Canoagem' },
+  { id: 7, content: '/public/general/home/', link: '/esporte/ciclismo', sport: 'Ciclismo' },
+  { id: 8, content: '/public/general/home/', link: '/esporte/esgrima', sport: 'Esgrima' },
+  { id: 9, content: '/public/general/home/', link: '/esporte/futebol',  sport: 'Futebol' },
+  { id: 10, content: '/public/general/home/', link: '/esporte/ginastica-artistica',  sport: 'Ginástica Artística' },
+  { id: 11, content: '/public/general/home/', link: '/esporte/ginastica-ritmica',  sport: 'Ginástica Rítmica' },
+  { id: 12, content: '/public/general/home/', link: '/esporte/golfe',  sport: 'Golfe' },
+  { id: 13, content: '/public/general/home/', link: '/esporte/handebol',  sport: 'Handebol' },
+  { id: 14, content: '/public/general/home/', link: '/esporte/hipismo',  sport: 'Hipismo' },
+  { id: 15, content: '/public/general/home/', link: '/esporte/judo',  sport: 'Judô' },
+  { id: 16, content: '/public/general/home/', link: '/esporte/natacao',  sport: 'Natação' },
+  { id: 17, content: '/public/general/home/', link: '/esporte/patinacao',  sport: 'Patinação' },
+  { id: 18, content: '/public/general/home/', link: '/esporte/remo',  sport: 'Remo' },
+  { id: 19, content: '/public/general/home/', link: '/esporte/rugby',  sport: 'Rugby' },
+  { id: 20, content: '/public/general/home/', link: '/esporte/skate',  sport: 'Skate' },
+  { id: 21, content: '/public/general/home/', link: '/esporte/surf',  sport: 'Surf' },
+  { id: 22, content: '/public/general/home/', link: '/esporte/tenis',  sport: 'Tênis' },
+  { id: 23, content: '/public/general/home/', link: '/esporte/tenis-de-mesa',  sport: 'Tênis de Mesa' },
+  { id: 24, content: '/public/general/home/', link: '/esporte/triatlo',  sport: 'Triatlo' },
+  { id: 25, content: '/public/general/home/', link: '/esporte/voleibol',  sport: 'Voleibol' },
 ]
 
 function getCardStyle(cardIndex) {
@@ -34,12 +56,7 @@ function getCardStyle(cardIndex) {
       transform: 'translateX(20.833vw) scale(1)', // Direita mais próxima
       zIndex: 2,
       opacity: 0.7,
-    },
-    {
-      transform: 'translateX(41.667vw) scale(0.85)', // Direita mais distante
-      zIndex: 1,
-      opacity: 0.5,
-    },
+    }
   ]
 
   return styles[position] || styles[0] // Garante o estilo mesmo para índices fora do alcance
