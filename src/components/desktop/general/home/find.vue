@@ -1,0 +1,107 @@
+<template>
+  <section class="is-desktop">
+    <h2>
+      O QUE VOCÊ PODE <span class="text-blue">ENCONTRAR</span> EM NOSSO
+      <span class="text-yellow">SITE</span>
+    </h2>
+    <hr />
+    <div>
+      <div class="card-blue">
+        <h3>BENEFÍCIOS</h3>
+        <p>
+          Entenda como cada esporte pode contribuir para o seu bem-estar físico e mental. Nossas
+          páginas mostram como as diferentes atividades físicas ajudam na prevenção de doenças,
+          aumento de força e resistência
+        </p>
+      </div>
+      <div class="card-green">
+        <h3>ESPORTES</h3>
+        <p>
+          Explore as modalidades, conheça os esportes. Nosso guia detalhado ajudará você a conhecer
+          as características de cada modalidade
+        </p>
+      </div>
+      <div class="card-blue">
+        <h3>HÁBITOS SAUDÁVEIS</h3>
+        <p>
+          Conheça hábitos saudáveis, e implante na sua rotina. Descubra o que é melhor para você e
+          adote hábitos benéficos para o seu quadro de saúde.
+        </p>
+      </div>
+    </div>
+  </section>
+</template>
+
+<style scoped>
+section {
+  margin: 5vw;
+
+  h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3.333vw;
+    line-height: 3.125vw;
+    text-align: center;
+    color: #1d7935;
+
+    .text-blue {
+      color: #0958b1;
+    }
+
+    .text-yellow {
+      color: #c1c13f;
+    }
+  }
+
+  hr {
+    width: 27.5vw;
+    height: 2px;
+    margin-top: 1.302vw;
+    text-align: center;
+    border: none;
+    background-color: #369950;
+  }
+
+  div {
+    display: flex;
+    justify-content: center;
+
+    div {
+      display: block;
+      text-align: center;
+      width: 20.417vw;
+      margin: 3vw 1.042vw 1.042vw 1.042vw;
+      padding: 2.604vw 1.042vw 2.604vw 1.042vw;
+
+      h3 {
+        font-family: "Bebas Neue", sans-serif;
+        font-size: 3.333vw;
+        line-height: 3.125vw;
+        color: #FFFDFD;
+        margin-top: 2.604vw;
+      }
+
+      p {
+        font-family: "Aldrich", sans-serif;
+        font-size: 1.342vw;
+        line-height: 1.667vw;
+        color: #FFFDFD;
+        margin-top: 3vw;
+      }
+    }
+
+    .card-blue {
+      background-color: #0b72e8;
+      border: 5px solid #E4E451;
+      border-radius: 10px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .card-green {
+      background-color: #2BB24F;
+      border: 5px solid #0B72E8;
+      border-radius: 10px;
+      box-shadow: 0 0.208vw 0.208vw rgba(0, 0, 0, 0.25);
+    }
+  }
+}
+</style>

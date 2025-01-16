@@ -5,6 +5,6 @@ import HeaderView from '@/components/desktop/elements/HeaderView.vue'
 <template>
   <HeaderView />
   <section>
-    <h1>Contato</h1>
+    <h1>Canoagem</h1>
   </section>
 </template>

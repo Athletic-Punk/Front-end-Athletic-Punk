@@ -1,3 +1,5 @@
 <template>
-  <section></section>
+  <section class="is-desktop">
+
+  </section>
 </template>
