@@ -11,26 +11,15 @@ import FooterView from '@/components/desktop/elements/FooterView.vue'
   <HeaderView />
   <main>
     <div class="flag">
-      <img src="/public/brazil-flag.png" alt="Bandeira do Brasil" />
+      <img src="/brazil-flag.png" alt="Bandeira do Brasil" />
     </div>
     <banner />
     <find />
     <sports />
     <div class="flag">
-      <img src="/public/brazil-flag.png" alt="Bandeira do Brasil" />
+      <img src="/brazil-flag.png" alt="Bandeira do Brasil" />
     </div>
   </main>
   <FooterView />
 </template>
 
-<style scoped>
-.flag {
-  display: flex;
-  justify-content: center;
-  margin: 5vw;
-}
-
-.flag:first-of-type {
-  margin-top: 2vw;
-}
-</style>
