@@ -11,3 +11,7 @@
 .flag:first-of-type {
   margin-top: 2vw;
 }
+
+.flag:last-of-type {
+  margin-top: 6vw;
+}
