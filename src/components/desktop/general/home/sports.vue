@@ -28,7 +28,7 @@ const cards = [
   { id: 22, content: '/general/home/', link: '/esporte/tenis',  sport: 'Tênis' },
   { id: 23, content: '/general/home/', link: '/esporte/tenis-de-mesa',  sport: 'Tênis de Mesa' },
   { id: 24, content: '/general/home/', link: '/esporte/triatlo',  sport: 'Triatlo' },
-  { id: 25, content: '/general/home/', link: '/esporte/voleibol',  sport: 'Voleibol' },
+  { id: 25, content: '/general/home/', link: '/esporte/volei',  sport: 'Voleibol' },
 ]
 
 function getCardStyle(cardIndex) {
