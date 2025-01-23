@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/remo/banner/01.png' },
-  { id: 1, picture: '/sports/remo/banner/02.png' },
-  { id: 2, picture: '/sports/remo/banner/03.png' },
-  { id: 3, picture: '/sports/remo/banner/04.png' },
-  { id: 4, picture: '/sports/remo/banner/05.png' },
-  { id: 5, picture: '/sports/remo/banner/06.png' }
+  { id: 0, picture: '/sports/remo/banner/01.webp' },
+  { id: 1, picture: '/sports/remo/banner/02.jpg' },
+  { id: 2, picture: '/sports/remo/banner/03.jpg' },
+  { id: 3, picture: '/sports/remo/banner/04.jpg' },
+  { id: 4, picture: '/sports/remo/banner/05.jpg' }
 ];
 const introductionText = 'O remo é um esporte aquático praticado em barcos, onde os atletas utilizam remos para impulsionar o barco na água. Ele pode ser realizado de forma competitiva ou recreativa, com uma rica história e uma grande tradição nos Jogos Olímpicos. O remo exige força, resistência, técnica e trabalho em equipe, sendo uma das modalidades mais desafiadoras e completas do esporte. No Brasil, o remo é praticado com destaque em competições nacionais e internacionais, com alguns atletas conquistando medalhas importantes em campeonatos de alto nível.';
 const menuItensSections = [

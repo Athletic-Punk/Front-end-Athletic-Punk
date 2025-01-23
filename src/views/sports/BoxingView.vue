@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/boxe/banner/01.png' },
-  { id: 1, picture: '/sports/boxe/banner/02.png' },
-  { id: 2, picture: '/sports/boxe/banner/03.png' },
-  { id: 3, picture: '/sports/boxe/banner/04.png' },
-  { id: 4, picture: '/sports/boxe/banner/05.png' },
-  { id: 5, picture: '/sports/boxe/banner/06.png' }
+  { id: 0, picture: '/sports/boxe/banner/01.jpg' },
+  { id: 1, picture: '/sports/boxe/banner/02.jpg' },
+  { id: 2, picture: '/sports/boxe/banner/03.jpg' },
+  { id: 3, picture: '/sports/boxe/banner/04.jpg' },
+  { id: 4, picture: '/sports/boxe/banner/05.jpg' }
 ];
 const introductionText = 'O boxe é um esporte de combate que combina força, resistência, estratégia e agilidade. É disputado entre dois atletas em um ringue, com o objetivo de acumular mais pontos ou conseguir o nocaute (KO) sobre o oponente. Popularizado globalmente por ícones como Muhammad Ali, Mike Tyson e, no Brasil, Éder Jofre, o boxe é reconhecido tanto como uma modalidade esportiva quanto uma prática para desenvolvimento físico e mental. No Brasil, a popularidade do boxe tem crescido, tanto em competições profissionais quanto como forma de treinamento físico em academias.';
 const menuItensSections = [

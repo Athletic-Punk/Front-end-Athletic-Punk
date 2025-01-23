@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/beisebol/banner/01.png' },
-  { id: 1, picture: '/sports/beisebol/banner/02.png' },
+  { id: 0, picture: '/sports/beisebol/banner/01.jpg' },
+  { id: 1, picture: '/sports/beisebol/banner/02.jpg' },
   { id: 2, picture: '/sports/beisebol/banner/03.png' },
-  { id: 3, picture: '/sports/beisebol/banner/04.png' },
-  { id: 4, picture: '/sports/beisebol/banner/05.png' },
-  { id: 5, picture: '/sports/beisebol/banner/06.png' }
+  { id: 3, picture: '/sports/beisebol/banner/04.jpg' },
+  { id: 4, picture: '/sports/beisebol/banner/05.jpg' }
 ];
 const introductionText = 'O beisebol é um dos esportes mais populares do mundo, especialmente nos Estados Unidos, Japão, Coreia do Sul e países do Caribe. Caracterizado por sua dinâmica estratégica e habilidade técnica, o esporte envolve duas equipes que alternam entre ataque e defesa, buscando marcar pontos ao rebater a bola e correr pelas bases. No Brasil, apesar de ser menos popular, o beisebol é praticado em comunidades de imigrantes japoneses e tem ganhado espaço com iniciativas voltadas ao público jovem.';
 const menuItensSections = [

@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/hipismo/banner/01.png' },
-  { id: 1, picture: '/sports/hipismo/banner/02.png' },
-  { id: 2, picture: '/sports/hipismo/banner/03.png' },
-  { id: 3, picture: '/sports/hipismo/banner/04.png' },
-  { id: 4, picture: '/sports/hipismo/banner/05.png' },
-  { id: 5, picture: '/sports/hipismo/banner/06.png' }
+  { id: 0, picture: '/sports/hipismo/banner/01.webp' },
+  { id: 1, picture: '/sports/hipismo/banner/02.webp' },
+  { id: 2, picture: '/sports/hipismo/banner/03.webp' },
+  { id: 3, picture: '/sports/hipismo/banner/04.jpeg' },
+  { id: 4, picture: '/sports/hipismo/banner/05.jpg' }
 ];
 const introductionText = 'O hipismo é uma modalidade esportiva que envolve o cavalo e o cavaleiro em uma série de competições que testam a habilidade de ambos em diversas atividades, como saltos, adestramento e corridas. O esporte, que é praticado desde a Antiguidade, é altamente técnico e exige uma estreita parceria entre o cavaleiro e seu cavalo. Considerado um dos esportes mais elegantes e nobres, o hipismo é popular em diversos países ao redor do mundo, sendo um dos destaques dos Jogos Olímpicos desde sua inclusão nas primeiras edições. No Brasil, atletas como Rodrigo Pessoa e Álvaro Afonso de Miranda Neto são reconhecidos internacionalmente pelas suas conquistas no esporte.';
 const menuItensSections = [

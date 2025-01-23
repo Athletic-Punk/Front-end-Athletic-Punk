@@ -12,12 +12,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/surf/banner/01.png' },
-  { id: 1, picture: '/sports/surf/banner/02.png' },
-  { id: 2, picture: '/sports/surf/banner/03.png' },
-  { id: 3, picture: '/sports/surf/banner/04.png' },
-  { id: 4, picture: '/sports/surf/banner/05.png' },
-  { id: 5, picture: '/sports/surf/banner/06.png' }
+  { id: 0, picture: '/sports/surf/banner/01.jpg' },
+  { id: 1, picture: '/sports/surf/banner/02.jpg' },
+  { id: 2, picture: '/sports/surf/banner/03.webp' },
+  { id: 3, picture: '/sports/surf/banner/04.webp' },
+  { id: 4, picture: '/sports/surf/banner/05.webp' }
 ];
 const introductionText = 'O surf é um dos esportes aquáticos mais populares e de maior conexão com a natureza. Praticado em praias ao redor do mundo, ele combina equilíbrio, força e técnica para deslizar sobre ondas usando uma prancha. No Brasil, o surf é amplamente difundido, com atletas como Gabriel Medina, Ítalo Ferreira e Maya Gabeira, que são referência internacional. O esporte também reflete um estilo de vida que valoriza a liberdade e o respeito ao meio ambiente.';
 const menuItensSections = [

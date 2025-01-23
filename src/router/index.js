@@ -39,6 +39,7 @@ import SignUpView from '@/views/signIn-and-signUp/SignUpView.vue'
 
 //PROFILE VIEWS
 import DashboardView from '@/views/profile/DashboardView.vue'
+import FormView from '@/views/profile/FormView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -199,6 +200,11 @@ const router = createRouter({
       path: '/minha-conta',
       name: 'profile',
       component: DashboardView,
+    },
+    {
+      path: '/formulario-rotina',
+      name: 'form',
+      component: FormView,
     },
     {
       path: '/auth/',

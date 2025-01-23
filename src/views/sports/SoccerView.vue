@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/futebol/banner/01.png' },
-  { id: 1, picture: '/sports/futebol/banner/02.png' },
-  { id: 2, picture: '/sports/futebol/banner/03.png' },
-  { id: 3, picture: '/sports/futebol/banner/04.png' },
-  { id: 4, picture: '/sports/futebol/banner/05.png' },
-  { id: 5, picture: '/sports/futebol/banner/06.png' }
+  { id: 0, picture: '/sports/futebol/banner/01.webp' },
+  { id: 1, picture: '/sports/futebol/banner/02.jpg' },
+  { id: 2, picture: '/sports/futebol/banner/03.jpg' },
+  { id: 3, picture: '/sports/futebol/banner/04.jpg' },
+  { id: 4, picture: '/sports/futebol/banner/05.jpg' }
 ];
 const introductionText = '<p>O futebol é, sem dúvida, o esporte mais popular do Brasil e do mundo. Ele reúne milhões de adeptos em todos os continentes e transcende as fronteiras do esporte, tornando-se um fenômeno cultural, social e econômico. No Brasil, o futebol é considerado uma paixão nacional e está profundamente enraizado na história do país, com clubes renomados e jogadores que se tornaram ícones globais, como Pelé, Zico, Romário, Ronaldo Fenômeno, Ronaldinho Gaúcho e Neymar.</p><p>Além de ser um esporte profissional, o futebol também é amplamente praticado de forma recreativa em campos, praias e nas ruas de todas as cidades, tornando-o acessível a pessoas de todas as idades e origens. Com sua simplicidade nas regras e a necessidade de poucos recursos para a prática, o futebol é, sem dúvida, um esporte universal.</p>';
 const menuItensSections = [

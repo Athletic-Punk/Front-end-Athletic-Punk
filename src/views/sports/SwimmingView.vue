@@ -12,12 +12,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/natacao/banner/01.png' },
-  { id: 1, picture: '/sports/natacao/banner/02.png' },
-  { id: 2, picture: '/sports/natacao/banner/03.png' },
-  { id: 3, picture: '/sports/natacao/banner/04.png' },
-  { id: 4, picture: '/sports/natacao/banner/05.png' },
-  { id: 5, picture: '/sports/natacao/banner/06.png' }
+  { id: 0, picture: '/sports/natacao/banner/01.webp' },
+  { id: 1, picture: '/sports/natacao/banner/02.webp' },
+  { id: 2, picture: '/sports/natacao/banner/03.jpg' },
+  { id: 3, picture: '/sports/natacao/banner/04.webp' },
+  { id: 4, picture: '/sports/natacao/banner/05.webp' }
 ];
 const introductionText = 'A natação é um dos esportes mais populares e acessíveis no Brasil, além de ser uma das modalidades mais tradicionais dos Jogos Olímpicos. O esporte é conhecido por sua capacidade de melhorar a saúde cardiovascular, aumentar a resistência e fortalecer a musculatura. No Brasil, a natação tem uma história rica, com grandes atletas, como Gustavo Borges, César Cielo e Ana Marcela Cunha, que se destacaram em competições internacionais.';
 const menuItensSections = [

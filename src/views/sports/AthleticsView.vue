@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/atletismo/banner/01.png' },
-  { id: 1, picture: '/sports/atletismo/banner/02.png' },
-  { id: 2, picture: '/sports/atletismo/banner/03.png' },
-  { id: 3, picture: '/sports/atletismo/banner/04.png' },
-  { id: 4, picture: '/sports/atletismo/banner/05.png' },
-  { id: 5, picture: '/sports/atletismo/banner/06.png' }
+  { id: 0, picture: '/sports/atletismo/banner/01.jpg' },
+  { id: 1, picture: '/sports/atletismo/banner/02.jpg' },
+  { id: 2, picture: '/sports/atletismo/banner/03.jpg' },
+  { id: 3, picture: '/sports/atletismo/banner/04.jpg' },
+  { id: 4, picture: '/sports/atletismo/banner/05.jpg' }
 ];
 const introductionText = 'O atletismo é considerado o esporte base, sendo um dos mais antigos e tradicionais do mundo. Inclui uma variedade de provas como corridas, saltos, lançamentos e marchas. Por sua versatilidade, é conhecido como "o esporte número um" e tem grande relevância nos Jogos Olímpicos. No Brasil, atletas como Adhemar Ferreira da Silva, Maurren Maggi e Thiago Braz conquistaram medalhas históricas, consolidando o país no cenário mundial.';
 const menuItensSections = [

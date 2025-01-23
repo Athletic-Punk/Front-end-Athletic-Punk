@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/skate/banner/01.png' },
-  { id: 1, picture: '/sports/skate/banner/02.png' },
-  { id: 2, picture: '/sports/skate/banner/03.png' },
-  { id: 3, picture: '/sports/skate/banner/04.png' },
-  { id: 4, picture: '/sports/skate/banner/05.png' },
-  { id: 5, picture: '/sports/skate/banner/06.png' }
+  { id: 0, picture: '/sports/skate/banner/01.webp' },
+  { id: 1, picture: '/sports/skate/banner/02.webp' },
+  { id: 2, picture: '/sports/skate/banner/03.webp' },
+  { id: 3, picture: '/sports/skate/banner/04.jpg' },
+  { id: 4, picture: '/sports/skate/banner/05.webp' }
 ];
 const introductionText = 'O skate é um esporte radical que combina equilíbrio, técnica e criatividade, sendo praticado em pistas, ruas e parques. Ele ganhou popularidade como um estilo de vida e forma de expressão cultural, especialmente entre jovens. No Brasil, o skate se consolidou como um dos esportes mais praticados, com destaque para atletas como Rayssa Leal, Pedro Barros e Letícia Bufoni, que elevaram o país ao topo das competições internacionais.';
 const menuItensSections = [
@@ -49,7 +48,7 @@ const curiositiesItens = [
   { id: 'three', text: 'São Paulo é considerada a "capital do skate" no Brasil, com dezenas de pistas e eventos anuais.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/skate/athletes/.webp', name: '', about: '' },
   { id: 1, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
   { id: 2, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
   { id: 3, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },

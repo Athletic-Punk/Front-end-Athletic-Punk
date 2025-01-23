@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/judo/banner/01.png' },
-  { id: 1, picture: '/sports/judo/banner/02.png' },
-  { id: 2, picture: '/sports/judo/banner/03.png' },
-  { id: 3, picture: '/sports/judo/banner/04.png' },
-  { id: 4, picture: '/sports/judo/banner/05.png' },
-  { id: 5, picture: '/sports/judo/banner/06.png' }
+  { id: 0, picture: '/sports/judo/banner/01.webp' },
+  { id: 1, picture: '/sports/judo/banner/02.jpg' },
+  { id: 2, picture: '/sports/judo/banner/03.jpg' },
+  { id: 3, picture: '/sports/judo/banner/04.jpg' },
+  { id: 4, picture: '/sports/judo/banner/05.jpg' }
 ];
 const introductionText = '<p>O judô é uma arte marcial de origem japonesa que combina técnica, disciplina e força, sendo também uma modalidade olímpica desde 1964. Criado pelo professor Jigoro Kano no final do século XIX, o judô destaca-se por sua filosofia de eficiência e respeito mútuo.</p><p>O Brasil é um dos países mais bem-sucedidos no judô mundial, com ícones como Aurélio Miguel, Rogério Sampaio, Rafaela Silva e Sarah Menezes, além de medalhas conquistadas em quase todas as edições dos Jogos Olímpicos.</p>';
 const menuItensSections = [

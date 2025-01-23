@@ -11,12 +11,10 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/ciclismo/banner/01.png' },
-  { id: 1, picture: '/sports/ciclismo/banner/02.png' },
-  { id: 2, picture: '/sports/ciclismo/banner/03.png' },
-  { id: 3, picture: '/sports/ciclismo/banner/04.png' },
-  { id: 4, picture: '/sports/ciclismo/banner/05.png' },
-  { id: 5, picture: '/sports/ciclismo/banner/06.png' }
+  { id: 0, picture: '/sports/ciclismo/banner/01.webp' },
+  { id: 1, picture: '/sports/ciclismo/banner/02.webp' },
+  { id: 2, picture: '/sports/ciclismo/banner/03.jpg' },
+  { id: 3, picture: '/sports/ciclismo/banner/04.jpg' }
 ];
 const introductionText = 'O ciclismo é um dos esportes mais populares do mundo, abrangendo uma grande variedade de disciplinas, incluindo competições de estrada, pista, mountain bike, BMX e ciclismo de pista. Além de ser um esporte competitivo de grande prestígio, também é uma atividade recreativa e de transporte amplamente praticada. O ciclismo tem grande relevância nos Jogos Olímpicos e é celebrado por sua capacidade de promover a saúde física e mental, sendo ideal para o fortalecimento cardiovascular e a melhoria da resistência muscular. No Brasil, o esporte ganhou destaque com grandes nomes como o ciclista Henrique Avancini, que se destacou no mountain bike, e a seleção nacional de estrada, que tem conquistado títulos internacionais.';
 const menuItensSections = [

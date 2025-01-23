@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/badminton/banner/01.png' },
-  { id: 1, picture: '/sports/badminton/banner/02.png' },
-  { id: 2, picture: '/sports/badminton/banner/03.png' },
-  { id: 3, picture: '/sports/badminton/banner/04.png' },
-  { id: 4, picture: '/sports/badminton/banner/05.png' },
-  { id: 5, picture: '/sports/badminton/banner/06.png' }
+  { id: 0, picture: '/sports/badminton/banner/01.jpeg' },
+  { id: 1, picture: '/sports/badminton/banner/02.jpg' },
+  { id: 2, picture: '/sports/badminton/banner/03.jpg' },
+  { id: 3, picture: '/sports/badminton/banner/04.jpg' },
+  { id: 4, picture: '/sports/badminton/banner/05.jpg' }
 ];
 const introductionText = 'O badminton é um esporte dinâmico e emocionante, praticado com uma raquete e uma peteca (ou shuttlecock). Pode ser jogado de maneira individual ou em duplas, e o objetivo principal é fazer com que a peteca caia no campo adversário. A modalidade exige muita agilidade, reflexos rápidos, resistência e técnicas precisas de ataque e defesa. Reconhecido pela sua inclusão nos Jogos Olímpicos desde 1992, o badminton é especialmente popular na Ásia, mas também tem se expandido globalmente.';
 const menuItensSections = [

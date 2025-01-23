@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/volei/banner/01.png' },
-  { id: 1, picture: '/sports/volei/banner/02.png' },
-  { id: 2, picture: '/sports/volei/banner/03.png' },
-  { id: 3, picture: '/sports/volei/banner/04.png' },
-  { id: 4, picture: '/sports/volei/banner/05.png' },
-  { id: 5, picture: '/sports/volei/banner/06.png' }
+  { id: 0, picture: '/sports/volei/banner/01.webp' },
+  { id: 1, picture: '/sports/volei/banner/02.webp' },
+  { id: 2, picture: '/sports/volei/banner/03.jpg' },
+  { id: 3, picture: '/sports/volei/banner/04.jpg' },
+  { id: 4, picture: '/sports/volei/banner/05.jpg' }
 ];
 const introductionText = '<p>O voleibol é um esporte coletivo praticado em diversas partes do mundo e é particularmente popular no Brasil. A modalidade é conhecida por sua dinâmica, exigindo rapidez, agilidade e trabalho em equipe. O Brasil é uma potência no voleibol, com equipes que se destacam tanto no masculino quanto no feminino, e que têm conquistado diversos títulos internacionais, como as medalhas de ouro olímpicas e campeonatos mundiais.</p><p>O jogo de voleibol envolve dois times de seis jogadores, que se enfrentam em uma quadra dividida por uma rede, com o objetivo de fazer a bola tocar o chão do lado adversário, ou forçar o adversário a cometer erros. Devido à sua praticidade e baixo custo para a prática, o voleibol também é bastante comum em escolas e comunidades ao redor do mundo.</p>';
 const menuItensSections = [

@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/esgrima/banner/01.png' },
-  { id: 1, picture: '/sports/esgrima/banner/02.png' },
-  { id: 2, picture: '/sports/esgrima/banner/03.png' },
-  { id: 3, picture: '/sports/esgrima/banner/04.png' },
-  { id: 4, picture: '/sports/esgrima/banner/05.png' },
-  { id: 5, picture: '/sports/esgrima/banner/06.png' }
+  { id: 0, picture: '/sports/esgrima/banner/01.webp' },
+  { id: 1, picture: '/sports/esgrima/banner/02.webp' },
+  { id: 2, picture: '/sports/esgrima/banner/03.jpg' },
+  { id: 3, picture: '/sports/esgrima/banner/04.jpg' },
+  { id: 4, picture: '/sports/esgrima/banner/05.jpg' }
 ];
 const introductionText = 'A esgrima é um esporte de combate que envolve habilidade, agilidade e estratégia, sendo uma das mais antigas modalidades esportivas, com origem nas lutas medievais e nos duelos de espada. A esgrima moderna, praticada nos Jogos Olímpicos, é caracterizada por três tipos de armas: florete, espada e sabre. Os atletas competem em duelos rápidos e intensos, buscando tocar o adversário enquanto evitam ser tocados. A esgrima exige grande concentração, precisão e tempo de reação. No Brasil, a esgrima tem ganhado espaço, com destaque para atletas como a medalhista olímpica Yane Marques.';
 const menuItensSections = [
@@ -49,7 +48,7 @@ const curiositiesItens = [
   { id: 'three', text: 'A esgrima é um dos esportes mais antigos dos Jogos Olímpicos, tendo sido incluída desde a primeira edição moderna, em 1896, com exceção dos Jogos de Los Angeles 1932, quando não houve competições de esgrima.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/esgrima/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/esgrima/athletes/.jpg', name: '', about: '' },
   { id: 1, picture: '/sports/esgrima/athletes/.PNG', name: '', about: '' },
   { id: 2, picture: '/sports/esgrima/athletes/.PNG', name: '', about: '' },
   { id: 3, picture: '/sports/esgrima/athletes/.PNG', name: '', about: '' },

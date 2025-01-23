@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/tenis-de-mesa/banner/01.png' },
-  { id: 1, picture: '/sports/tenis-de-mesa/banner/02.png' },
-  { id: 2, picture: '/sports/tenis-de-mesa/banner/03.png' },
-  { id: 3, picture: '/sports/tenis-de-mesa/banner/04.png' },
-  { id: 4, picture: '/sports/tenis-de-mesa/banner/05.png' },
-  { id: 5, picture: '/sports/tenis-de-mesa/banner/06.png' }
+  { id: 0, picture: '/sports/tenis-de-mesa/banner/01.jpg' },
+  { id: 1, picture: '/sports/tenis-de-mesa/banner/02.webp' },
+  { id: 2, picture: '/sports/tenis-de-mesa/banner/03.webp' },
+  { id: 3, picture: '/sports/tenis-de-mesa/banner/04.jpg' },
+  { id: 4, picture: '/sports/tenis-de-mesa/banner/05.jpg' }
 ];
 const introductionText = 'O tênis de mesa, conhecido popularmente como ping-pong, é um dos esportes mais rápidos e dinâmicos do mundo. Ele combina reflexos rápidos, precisão e estratégia, sendo praticado em todos os continentes. Reconhecido tanto como esporte recreativo quanto competitivo, o tênis de mesa possui milhões de adeptos, com destaque em países como China, Japão, Alemanha e Brasil. No cenário brasileiro, Hugo Hoyama e Hugo Calderano são nomes que ajudaram a popularizar o esporte, destacando-se em competições internacionais.';
 const menuItensSections = [

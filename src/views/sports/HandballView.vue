@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/handebol/banner/01.png' },
-  { id: 1, picture: '/sports/handebol/banner/02.png' },
-  { id: 2, picture: '/sports/handebol/banner/03.png' },
-  { id: 3, picture: '/sports/handebol/banner/04.png' },
-  { id: 4, picture: '/sports/handebol/banner/05.png' },
-  { id: 5, picture: '/sports/handebol/banner/06.png' }
+  { id: 0, picture: '/sports/handebol/banner/01.jpeg' },
+  { id: 1, picture: '/sports/handebol/banner/02.webp' },
+  { id: 2, picture: '/sports/handebol/banner/03.webp' },
+  { id: 3, picture: '/sports/handebol/banner/04.webp' },
+  { id: 4, picture: '/sports/handebol/banner/05.webp' }
 ];
 const introductionText = 'O handebol é um esporte coletivo dinâmico e emocionante que combina habilidades físicas e estratégicas. Jogadores passam, driblam e arremessam uma bola com as mãos para marcar gols na meta adversária. A modalidade é amplamente praticada em escolas e clubes pelo Brasil, destacando-se pela velocidade e intensidade. O Brasil se tornou uma potência no cenário internacional, especialmente no handebol feminino, conquistando o título mundial em 2013.';
 const menuItensSections = [

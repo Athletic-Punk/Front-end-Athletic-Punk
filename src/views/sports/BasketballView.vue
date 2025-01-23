@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/basquete/banner/01.png' },
-  { id: 1, picture: '/sports/basquete/banner/02.png' },
-  { id: 2, picture: '/sports/basquete/banner/03.png' },
-  { id: 3, picture: '/sports/basquete/banner/04.png' },
-  { id: 4, picture: '/sports/basquete/banner/05.png' },
-  { id: 5, picture: '/sports/basquete/banner/06.png' }
+  { id: 0, picture: '/sports/basquete/banner/01.jpg' },
+  { id: 1, picture: '/sports/basquete/banner/02.jpg' },
+  { id: 2, picture: '/sports/basquete/banner/03.jpg' },
+  { id: 3, picture: '/sports/basquete/banner/04.jpg' },
+  { id: 4, picture: '/sports/basquete/banner/05.jpg' }
 ];
 const introductionText = '<p>O basquete é um dos esportes mais populares e praticados no mundo, especialmente nos Estados Unidos, onde a NBA (National Basketball Association) é uma das ligas esportivas mais prestigiosas globalmente. No Brasil, o basquete também tem uma longa história e tradição, com grandes atletas como Oscar Schmidt e Hortência Marcari, que marcaram gerações de fãs. O esporte é caracterizado pela velocidade, habilidade técnica e trabalho em equipe, sendo praticado em diversos níveis, desde o recreativo até o profissional.</p><p>A principal característica do basquete é a competição entre duas equipes com o objetivo de marcar pontos, lançando uma bola através de um aro, que é colocado a uma altura de 3,05 metros. O basquete é um jogo de ritmo acelerado, onde são exigidas habilidades como dribles, passes, arremessos e a defesa.</p>';
 const menuItensSections = [

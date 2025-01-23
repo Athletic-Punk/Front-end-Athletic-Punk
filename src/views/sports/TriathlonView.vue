@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/triatlo/banner/01.png' },
-  { id: 1, picture: '/sports/triatlo/banner/02.png' },
-  { id: 2, picture: '/sports/triatlo/banner/03.png' },
-  { id: 3, picture: '/sports/triatlo/banner/04.png' },
-  { id: 4, picture: '/sports/triatlo/banner/05.png' },
-  { id: 5, picture: '/sports/triatlo/banner/06.png' }
+  { id: 0, picture: '/sports/triatlo/banner/01.jpg' },
+  { id: 1, picture: '/sports/triatlo/banner/02.jpg' },
+  { id: 2, picture: '/sports/triatlo/banner/03.jpg' },
+  { id: 3, picture: '/sports/triatlo/banner/04.jpg' },
+  { id: 4, picture: '/sports/triatlo/banner/05.webp' }
 ];
 const introductionText = 'O triatlo é um esporte multidisciplinar que combina três modalidades: natação, ciclismo e corrida, praticadas em sequência, sem interrupções. Ele é considerado um dos esportes mais exigentes fisicamente, pois exige resistência, velocidade e força de maneira simultânea em suas três fases. O triatlo ganhou popularidade nos Jogos Olímpicos, sendo uma das provas mais desafiadoras e emocionantes. A sua diversidade e a necessidade de dominar três esportes diferentes tornam-no um grande desafio para os atletas.';
 const menuItensSections = [

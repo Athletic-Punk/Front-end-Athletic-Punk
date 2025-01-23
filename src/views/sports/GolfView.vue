@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/golfe/banner/01.png' },
-  { id: 1, picture: '/sports/golfe/banner/02.png' },
-  { id: 2, picture: '/sports/golfe/banner/03.png' },
-  { id: 3, picture: '/sports/golfe/banner/04.png' },
-  { id: 4, picture: '/sports/golfe/banner/05.png' },
-  { id: 5, picture: '/sports/golfe/banner/06.png' }
+  { id: 0, picture: '/sports/golfe/banner/01.jpg' },
+  { id: 1, picture: '/sports/golfe/banner/02.webp' },
+  { id: 2, picture: '/sports/golfe/banner/03.jpg' },
+  { id: 3, picture: '/sports/golfe/banner/04.jpg' },
+  { id: 4, picture: '/sports/golfe/banner/05.jpg' }
 ];
 const introductionText = 'O golfe é um esporte de precisão e estratégia, amplamente praticado em todo o mundo. Consiste em acertar uma bola com um taco em direção a uma série de buracos, com o objetivo de completar o percurso utilizando o menor número de tacadas possível. Embora o golfe seja tradicionalmente visto como um esporte de elite, sua popularidade tem crescido entre pessoas de todas as idades e origens. O golfe foi introduzido nos Jogos Olímpicos modernos em 1900 e voltou a ser incluído no programa olímpico em 2016. No Brasil, o golfe vem ganhando mais destaque, com atletas como Adilson da Silva e Miguel Tabuena conquistando resultados expressivos em torneios internacionais.';
 const menuItensSections = [

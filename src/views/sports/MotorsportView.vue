@@ -12,11 +12,10 @@ import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
   { id: 0, picture: '/sports/automobilismo/banner/01.png' },
-  { id: 1, picture: '/sports/automobilismo/banner/02.png' },
-  { id: 2, picture: '/sports/automobilismo/banner/03.png' },
-  { id: 3, picture: '/sports/automobilismo/banner/04.png' },
-  { id: 4, picture: '/sports/automobilismo/banner/05.png' },
-  { id: 5, picture: '/sports/automobilismo/banner/06.png' }
+  { id: 1, picture: '/sports/automobilismo/banner/02.jpg' },
+  { id: 2, picture: '/sports/automobilismo/banner/03.jpg' },
+  { id: 3, picture: '/sports/automobilismo/banner/04.jpg' },
+  { id: 4, picture: '/sports/automobilismo/banner/05.jpg' }
 ];
 const introductionText = 'O automobilismo é um esporte a motor que envolve competições em alta velocidade, nas quais pilotos conduzem carros especialmente projetados em circuitos fechados ou pistas de rua. É uma das modalidades esportivas mais emocionantes e perigosas, combinando habilidade técnica, estratégia e avanços tecnológicos. No Brasil, o automobilismo ganhou notoriedade com nomes como Ayrton Senna, Nelson Piquet e Emerson Fittipaldi, que conquistaram múltiplos títulos na Fórmula 1 e elevaram o país ao topo da categoria.';
 const menuItensSections = [

@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/rugby/banner/01.png' },
-  { id: 1, picture: '/sports/rugby/banner/02.png' },
-  { id: 2, picture: '/sports/rugby/banner/03.png' },
-  { id: 3, picture: '/sports/rugby/banner/04.png' },
-  { id: 4, picture: '/sports/rugby/banner/05.png' },
-  { id: 5, picture: '/sports/rugby/banner/06.png' }
+  { id: 0, picture: '/sports/rugby/banner/01.webp' },
+  { id: 1, picture: '/sports/rugby/banner/02.webp' },
+  { id: 2, picture: '/sports/rugby/banner/03.webp' },
+  { id: 3, picture: '/sports/rugby/banner/04.webp' },
+  { id: 4, picture: '/sports/rugby/banner/05.webp' }
 ];
 const introductionText = 'O rugby é um esporte coletivo que combina força, estratégia e trabalho em equipe. No Brasil, a modalidade tem ganhado popularidade nos últimos anos, especialmente após a inclusão do rugby sevens nos Jogos Olímpicos. Embora o rugby ainda não seja um dos esportes mais praticados no país, a seleção brasileira, conhecida como "Tupis" (masculino) e "Yaras" (feminino), tem apresentado desempenhos notáveis em competições internacionais.';
 const menuItensSections = [

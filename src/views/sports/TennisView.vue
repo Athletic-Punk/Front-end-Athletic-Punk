@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/tenis/banner/01.png' },
-  { id: 1, picture: '/sports/tenis/banner/02.png' },
-  { id: 2, picture: '/sports/tenis/banner/03.png' },
-  { id: 3, picture: '/sports/tenis/banner/04.png' },
-  { id: 4, picture: '/sports/tenis/banner/05.png' },
-  { id: 5, picture: '/sports/tenis/banner/06.png' }
+  { id: 0, picture: '/sports/tenis/banner/01.webp' },
+  { id: 1, picture: '/sports/tenis/banner/02.jpg' },
+  { id: 2, picture: '/sports/tenis/banner/03.jpg' },
+  { id: 3, picture: '/sports/tenis/banner/04.jpg' },
+  { id: 4, picture: '/sports/tenis/banner/05.jpg' }
 ];
 const introductionText = 'O tênis é um dos esportes mais elegantes e populares do mundo, destacando-se pela combinação de técnica, estratégia e resistência física. No Brasil, o tênis ganhou notoriedade com jogadores como Gustavo Kuerten, Maria Esther Bueno e, mais recentemente, Beatriz Haddad Maia, que levaram o país ao cenário internacional.';
 const menuItensSections = [

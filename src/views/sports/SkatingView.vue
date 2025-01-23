@@ -11,12 +11,11 @@ import athletes from '@/components/desktop/sports/athletes.vue';
 import ResearchSources from '@/components/desktop/sports/researchSources.vue';
 
 const titleImg = [
-  { id: 0, picture: '/sports/patinacao/banner/01.png' },
-  { id: 1, picture: '/sports/patinacao/banner/02.png' },
-  { id: 2, picture: '/sports/patinacao/banner/03.png' },
-  { id: 3, picture: '/sports/patinacao/banner/04.png' },
-  { id: 4, picture: '/sports/patinacao/banner/05.png' },
-  { id: 5, picture: '/sports/patinacao/banner/06.png' }
+  { id: 0, picture: '/sports/patinacao/banner/01.webp' },
+  { id: 1, picture: '/sports/patinacao/banner/02.jpg' },
+  { id: 2, picture: '/sports/patinacao/banner/03.jpg' },
+  { id: 3, picture: '/sports/patinacao/banner/04.jpg' },
+  { id: 4, picture: '/sports/patinacao/banner/05.jpg' }
 ];
 const introductionText = 'A patinação é uma modalidade esportiva que envolve o uso de patins para realizar movimentos e manobras em diversas superfícies, como pistas de gelo, asfalto e concreto. Pode ser praticada de forma recreativa ou competitiva, com várias disciplinas, como patinação artística, patinação de velocidade e patinação inline (com patins em linha). A patinação artística, especialmente, é conhecida por sua elegância e precisão, sendo um dos destaques dos Jogos Olímpicos de Inverno. A prática oferece benefícios tanto físicos quanto mentais, desenvolvendo habilidades motoras, equilíbrio e coordenação. No Brasil, a patinação tem ganhado popularidade, com atletas conquistando vitórias em campeonatos internacionais.';
 const menuItensSections = [
@@ -74,7 +73,7 @@ const sources = [
       <img src="/brazil-flag.png" alt="Bandeira do Brasil" />
     </div>
     <banner sport-title="PATINAÇÃO" :imgsTitle="titleImg" />
-    <introduction :introduction="introductionText" introductionImage="/sports/patinacao/introduction.jpeg" />
+    <introduction :introduction="introductionText" introductionImage="/sports/patinacao/introduction.jpg" />
     <general-knowledge :menuItens="menuItensSections" :infoItens="infoItensText" />
     <benefits :benefitsSections="benefitsItens" />
     <start-often :startItens="howStart" :oftenItens="whatOften" />
