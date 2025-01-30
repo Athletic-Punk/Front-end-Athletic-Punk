@@ -42,18 +42,6 @@ const info = ref({
 });
 
 console.log(info.value);
-
-const formData = ref({
-  name: '',
-  email: '',
-  gender: '',
-  acceptTerms: false,
-});
-
-const handleSubmit = () => {
-  alert('Formulário enviado com sucesso!');
-  console.log('Dados do formulário:', formData.value);
-};
 </script>
 
 <template>
