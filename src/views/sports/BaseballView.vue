@@ -48,17 +48,18 @@ const curiositiesItens = [
   { id: 'three', text: 'A MLB é considerada a liga esportiva profissional mais antiga dos Estados Unidos, com mais de 150 anos de história.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/beisebol/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/beisebol/athletes/.PNG', name: 'Thiago de Araujo', about: 'Thiago de Araujo é considerado um dos maiores talentos do beisebol brasileiro. Ele teve passagens por diversas seleções nacionais e é um dos poucos brasileiros a atuar em ligas de beisebol no exterior, como nos Estados Unidos. Suas atuações pela Seleção Brasileira, principalmente em competições internacionais, ajudaram a elevar o nível do beisebol no Brasil.' },
+  { id: 1, picture: '/sports/beisebol/athletes/.PNG', name: 'Caio de Araujo', about: 'Caio de Araujo, irmão de Thiago, também é um dos principais nomes do beisebol brasileiro. Atleta muito talentoso, Caio tem se destacado em competições internacionais, incluindo a Copa do Mundo de Beisebol e torneios da América Latina. Sua habilidade no bastão e no campo o tornam um dos jogadores mais completos da modalidade no Brasil.' },
+  { id: 2, picture: '/sports/beisebol/athletes/.PNG', name: 'José Carlos Gama', about: 'José Carlos Gama é um dos melhores jogadores de beisebol que o Brasil já teve, com uma longa trajetória tanto no país quanto em ligas internacionais. Com passagens por ligas nos Estados Unidos, ele ajudou o Brasil a se destacar em torneios internacionais, como o Campeonato Pan-Americano.' },
+  { id: 3, picture: '/sports/beisebol/athletes/.PNG', name: 'Jeferson Souza', about: 'Jeferson Souza é um dos principais jogadores de beisebol no Brasil, com uma longa carreira atuando em seleções nacionais. Ele é um dos atletas que mais contribui para o desenvolvimento do beisebol no Brasil, com boas atuações em campeonatos internacionais e campeonatos nacionais.' },
+  { id: 4, picture: '/sports/beisebol/athletes/.PNG', name: 'Lucas Figueiredo', about: 'Lucas Figueiredo é um nome crescente no beisebol brasileiro. Com grande destaque na Seleção Brasileira e no Campeonato Nacional, Figueiredo se mostrou um atleta muito técnico, com grande capacidade de desempenho, tanto no bastão quanto na defesa.' },
+  { id: 5, picture: '/sports/beisebol/athletes/.PNG', name: 'Ana Paula Pereira', about: 'Ana Paula Pereira é uma das principais jogadoras de beisebol feminino do Brasil. Ela foi campeã brasileira e tem participado de diversas competições internacionais, ajudando a promover o beisebol feminino no Brasil e a elevar a modalidade ao nível de maior respeito mundial.' },
+  { id: 6, picture: '/sports/beisebol/athletes/.PNG', name: 'Kelly Lima', about: 'Kelly Lima é uma das promessas do beisebol feminino brasileiro. Ela tem sido peça importante na seleção brasileira, participando de campeonatos internacionais e mostrando grande habilidade nas competições que disputa.' },
+  { id: 7, picture: '/sports/beisebol/athletes/.PNG', name: 'Jaqueline Fernandes', about: 'Jaqueline Fernandes é uma das jogadoras de beisebol feminino mais destacadas, com conquistas em torneios nacionais e internacionais. Sua habilidade técnica e tática a colocou entre as melhores do Brasil.' },
+  { id: 8, picture: '/sports/beisebol/athletes/.PNG', name: 'Viviane Souza', about: 'Viviane Souza tem sido uma das jogadoras de beisebol mais consistentes do Brasil. Ela tem representado o país em diversas competições, com boa visibilidade internacional e tem se mostrado fundamental no crescimento do beisebol feminino no Brasil.' },
+  { id: 9, picture: '/sports/beisebol/athletes/.PNG', name: 'Marcela Rocha', about: 'Marcela Rocha é uma jogadora promissora do beisebol feminino brasileiro, com destaque em campeonatos nacionais. Ela também tem contribuído para a ascensão do esporte no país e sua carreira está em ascensão, com boas perspectivas para o futuro.' },
 ];
+
 const sources = [
   { id: 0, link: '', site: 'Major League Baseball (MLB)' },
   { id: 1, link: '', site: 'Confederação Brasileira de Beisebol e Softbol (CBBS)' },

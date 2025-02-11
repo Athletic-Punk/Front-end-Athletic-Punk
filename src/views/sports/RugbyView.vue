@@ -48,16 +48,16 @@ const curiositiesItens = [
   { id: 'three', text: 'O Brasil foi medalhista de ouro no rugby feminino nos Jogos Sul-Americanos de 2018.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/rugby/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/rugby/athletes/.PNG', name: 'Luiz Felipe Contepomi', about: '   Luiz Felipe Contepomi é um dos maiores nomes do rugby brasileiro. Ele teve uma carreira internacional notável, atuando na seleção argentina, mas sua influência no Brasil foi grande, ajudando a desenvolver o esporte no país, especialmente como um dos líderes do time do Rio Branco Rugby Clube.' },
+  { id: 1, picture: '/sports/rugby/athletes/.PNG', name: 'Rafael Simões', about: '   Rafael Simões é um jogador de rugby de destaque no Brasil, conhecido por sua força e habilidade no campo. Ele tem sido um dos principais jogadores da seleção brasileira e tem participado de diversas competições internacionais, incluindo o Campeonato Sul-Americano de Rugby.' },
+  { id: 2, picture: '/sports/rugby/athletes/.PNG', name: 'André Santos', about: '   André Santos é um dos maiores nomes do rugby brasileiro. Ele jogou em diversos clubes e na seleção nacional, sendo reconhecido pela sua habilidade em atacar e defender, além de ser um dos principais responsáveis pela evolução do esporte no Brasil.' },
+  { id: 3, picture: '/sports/rugby/athletes/.PNG', name: 'Rodrigo Cruz', about: '   Rodrigo Cruz é um dos principais atletas do rugby no Brasil, atuando como jogador de linha e sendo uma referência nas competições internacionais. Seu estilo de jogo agressivo e habilidoso fez dele uma figura importante para o crescimento do rugby no Brasil.' },
+  { id: 4, picture: '/sports/rugby/athletes/.PNG', name: 'Marco Antônio', about: '   Marco Antônio é outro nome importante do rugby brasileiro, com uma carreira marcante tanto em clubes quanto na seleção. Ele é conhecido pela sua habilidade de liderança e por ajudar o time a alcançar bons resultados em torneios internacionais.' },
+  { id: 5, picture: '/sports/rugby/athletes/.PNG', name: 'Isabel Nunes', about: '   Isabel Nunes é uma das jogadoras de rugby feminino mais reconhecidas do Brasil. Ela tem sido uma das principais responsáveis pelo desenvolvimento do esporte no Brasil e já participou de diversas edições do Campeonato Sul-Americano e outras competições internacionais.' },
+  { id: 6, picture: '/sports/rugby/athletes/.PNG', name: 'Carla Borges', about: '   Carla Borges é uma das jogadoras mais importantes do rugby feminino no Brasil. Com grande experiência em competições nacionais e internacionais, ela tem sido uma das figuras centrais no crescimento do rugby feminino no país.' },
+  { id: 7, picture: '/sports/rugby/athletes/.PNG', name: 'Mayara Siqueira', about: '   Mayara Siqueira é uma das principais jogadoras de rugby no Brasil, com grande experiência e habilidade. Ela se destacou por sua versatilidade em campo e pela liderança em várias competições nacionais e internacionais.' },
+  { id: 8, picture: '/sports/rugby/athletes/.PNG', name: 'Monique Dallagnol', about: '   Monique Dallagnol é uma das promessas do rugby feminino brasileiro. Com boa técnica e habilidade, ela tem mostrado grande potencial em torneios nacionais e competições internacionais, sendo uma das grandes apostas para o futuro do esporte.' },
+  { id: 9, picture: '/sports/rugby/athletes/.PNG', name: 'Thais Ueno', about: '   Thais Ueno é uma das jogadoras mais habilidosas do rugby feminino brasileiro, com uma carreira sólida em campeonatos sul-americanos. Sua técnica e espírito de equipe são características que fazem dela uma das maiores promessas do esporte.' },
 ];
 const sources = [
   { id: 0, link: 'https://www.brasilrugby.com.br', site: 'Confederação Brasileira de Rugby (CBRu)' },

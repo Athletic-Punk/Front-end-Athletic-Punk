@@ -49,17 +49,18 @@ const curiositiesItens = [
   { id: 'four', text: ' futebol feminino tem crescido em popularidade, com países como os Estados Unidos, Alemanha e Brasil investindo em ligas e seleções de destaque.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/futebol/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/futebol/athletes/.PNG', name: 'Pelé', about: 'Pelé é considerado o maior jogador de futebol de todos os tempos, não apenas no Brasil, mas no mundo. Tricampeão mundial (1958, 1962 e 1970), Pelé marcou mais de mil gols em sua carreira e é um ícone mundial do esporte. Sua habilidade técnica, visão de jogo e carisma ajudaram a popularizar o futebol e a consolidá-lo como o esporte mais popular do planeta.' },
+  { id: 1, picture: '/sports/futebol/athletes/.PNG', name: 'Ronaldo Nazário', about: 'Ronaldo, conhecido como "Fenômeno", é outro ícone do futebol brasileiro e mundial. Bicampeão mundial (1994 e 2002), ele é amplamente reconhecido por sua habilidade, velocidade e dribles desconcertantes. Ronaldo também venceu o prêmio de Melhor Jogador do Mundo pela FIFA três vezes e teve uma carreira brilhante no Barcelona, Real Madrid e Inter de Milão, entre outros clubes.' },
+  { id: 2, picture: '/sports/futebol/athletes/.PNG', name: 'Romário', about: 'Romário é outro gigante do futebol brasileiro, com uma carreira recheada de títulos e gols. Campeão mundial em 1994, Romário foi um dos maiores atacantes da história do futebol, com uma habilidade incomparável na finalização e um instinto matador na área. Além disso, Romário teve passagens brilhantes pelo Flamengo, Barcelona e Vasco da Gama, entre outros clubes.' },
+  { id: 3, picture: '/sports/futebol/athletes/.PNG', name: 'Neymar Jr.', about: 'Neymar é o principal nome do futebol brasileiro contemporâneo. Com grandes passagens pelo Santos, Barcelona e Paris Saint-Germain, Neymar é conhecido por sua habilidade técnica, dribles e gols. Ele também é um dos maiores artilheiros da Seleção Brasileira e tem se destacado em Copas do Mundo e em competições internacionais.' },
+  { id: 4, picture: '/sports/futebol/athletes/.PNG', name: 'Cafu', about: 'Cafu é o único jogador na história a ter disputado cinco Copas do Mundo, sendo campeão mundial em 1994 e 2002. Além disso, ele é amplamente reconhecido como um dos melhores laterais-direitos de todos os tempos, com grande contribuição para a Seleção Brasileira e para clubes como São Paulo, Roma e Milan.' },
+  { id: 5, picture: '/sports/futebol/athletes/.PNG', name: 'Marta', about: 'Marta é considerada a maior jogadora de futebol feminino de todos os tempos. Com seis prêmios de Melhor Jogadora do Mundo pela FIFA, ela se destaca pela sua técnica, visão de jogo e habilidade no drible. Marta é a maior artilheira da história das Copas do Mundo e teve uma carreira brilhante tanto no Brasil quanto no exterior, com passagens por clubes como o Orlando Pride, da Liga dos Estados Unidos.' },
+  { id: 6, picture: '/sports/futebol/athletes/.PNG', name: 'Formiga', about: 'Formiga é uma das maiores jogadoras de futebol feminino da história. Com cinco Copas do Mundo disputadas, ela é uma das jogadoras mais experientes e respeitadas na Seleção Brasileira. Formiga também teve uma carreira vitoriosa em clubes, com destaque no PSG e no São José. Sua habilidade no meio-campo e sua liderança são essenciais para o futebol feminino brasileiro.' },
+  { id: 7, picture: '/sports/futebol/athletes/.PNG', name: 'Cristiane', about: 'Cristiane é uma das principais artilheiras da Seleção Brasileira, com passagens por várias edições de Copas do Mundo e Jogos Olímpicos. Sua habilidade de finalização e seu trabalho coletivo a tornaram uma das maiores jogadoras do futebol feminino brasileiro. Cristiane também teve passagens por clubes europeus, como o Paris Saint-Germain.' },
+  { id: 8, picture: '/sports/futebol/athletes/.PNG', name: 'Andressa Alves', about: 'Andressa Alves é uma das jogadoras mais versáteis da Seleção Brasileira, atuando em diversas posições ofensivas. Com passagens por clubes de renome como Barcelona e Roma, ela é reconhecida pela sua visão de jogo e capacidade de fazer gols importantes para a Seleção Brasileira.' },
+  { id: 9, picture: '/sports/futebol/athletes/.PNG', name: 'Debinha', about: 'Debinha é uma das jogadoras mais habilidosas do futebol feminino brasileiro, com grande destaque no Centroavante e meio-campo. Ela tem se mostrado uma artilheira, tanto na Seleção Brasileira quanto em clubes como o North Carolina Courage, nos Estados Unidos, e já conquistou títulos como a Copa América e medalhas olímpicas.' },
 ];
+
 const sources = [
   { id: 0, link: '', site: 'FIFA (Federação Internacional de Futebol)' },
   { id: 1, link: '', site: 'Confederação Brasileira de Futebol (CBF)' },

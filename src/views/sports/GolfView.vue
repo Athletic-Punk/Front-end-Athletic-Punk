@@ -48,17 +48,88 @@ const curiositiesItens = [
   { id: 'three', text: 'O campo de golfe mais longo do mundo está localizado em Lytham St Annes, na Inglaterra, com 7.000 metros de extensão.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/golfe/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/golfe/athletes/.PNG', name: 'Adilson da Silva', about: '   Adilson da Silva é o principal nome do golfe brasileiro, tendo sido o primeiro brasileiro a competir no PGA Tour. Ele é um dos maiores jogadores do esporte no Brasil, com uma carreira sólida no golfe internacional. Adilson já conquistou títulos importantes no PGA Tour Latinoamérica e é um exemplo de dedicação e perseverança, elevando o golfe brasileiro no cenário internacional.' },
+  { id: 1, picture: '/sports/golfe/athletes/.PNG', name: 'Alexandre Rocha', about: '   Alexandre Rocha é um dos jogadores de golfe mais conhecidos do Brasil. Ele tem uma carreira internacional sólida, com passagens pelo PGA Tour e pelo European Tour. Alexandre é considerado um dos maiores talentos do golfe brasileiro, tendo sido o primeiro brasileiro a conquistar uma vaga no PGA Tour, o que foi um marco para o esporte no Brasil.' },
+  { id: 2, picture: '/sports/golfe/athletes/.PNG', name: 'Lucas Lee', about: 'Lucas Lee é uma das jovens promessas do golfe brasileiro. Ele tem se destacado nos campeonatos nacionais e internacionais, e sua habilidade e constância nas competições de golfe estão gerando expectativas para o futuro do esporte no Brasil.' },
+  { id: 3, picture: '/sports/golfe/athletes/.PNG', name: 'Rafael Becker', about: '   Rafael Becker é outro atleta de destaque no golfe brasileiro, com boa performance no PGA Tour Latinoamérica. Ele tem sido uma peça importante para a equipe brasileira em competições internacionais, consolidando seu nome no cenário do golfe nacional.' },
+  { id: 4, picture: '/sports/golfe/athletes/.PNG', name: 'Ricardo Gouveia', about: '   Ricardo Gouveia é um talentoso jogador de golfe que se destacou nas competições de golfe profissionais europeias, e também teve boas colocações no PGA Tour Latinoamérica. Com grande precisão e técnica, ele tem sido uma das grandes promessas do golfe brasileiro.' },
+  { id: 5, picture: '/sports/golfe/athletes/.PNG', name: 'Gabriela Muniz', about: '   Gabriela Muniz é uma das principais jogadoras de golfe do Brasil. Ela tem se destacado em torneios internacionais, sendo a única brasileira a se classificar para o US Open. Gabriela é uma das principais promessas do golfe feminino brasileiro, com uma carreira crescente e performances sólidas nos principais campeonatos.' },
+  { id: 6, picture: '/sports/golfe/athletes/.PNG', name: 'Victoria Lovelady', about: '   Victoria Lovelady é uma das jogadoras de golfe mais talentosas do Brasil. Ela se destacou no cenário internacional por sua habilidade com os ferros e sua consistência no campo. Já representou o Brasil em várias competições internacionais e é uma das maiores esperanças para o golfe feminino brasileiro.' },
+  { id: 7, picture: '/sports/golfe/athletes/.PNG', name: 'Bárbara Nogueira', about: '   Bárbara Nogueira é uma jogadora em ascensão no golfe, com destaque nos campeonatos nacionais e em algumas competições internacionais. Sua técnica e precisão nas tacadas a colocaram como uma das jovens promessas do golfe feminino brasileiro.' },
+  { id: 8, picture: '/sports/golfe/athletes/.PNG', name: 'Juliana Piva', about: '   Juliana Piva é uma das representantes do golfe brasileiro no cenário internacional. Ela tem se destacado em competições latino-americanas e é uma das jogadoras que vêm conquistando destaque nas competições mais importantes.' },
+  { id: 9, picture: '/sports/golfe/athletes/.PNG', name: 'Letícia Tavares', about: '   Letícia Tavares é uma das grandes promessas do golfe brasileiro, com boas performances em torneios nacionais e competições internacionais. Ela tem demonstrado grande talento e potencial para representar o Brasil nas maiores competições internacionais do esporte.' },
 ];
+
+/* 
+### **Handebol**
+**Homens**  
+1. **Thiago Alves**  
+   Thiago Alves é um dos maiores jogadores de handebol do Brasil, com uma carreira marcada por grandes vitórias tanto em clubes nacionais quanto internacionais. Ele foi parte fundamental da seleção brasileira que conquistou a medalha de prata no Campeonato Mundial de 2013 e tem uma trajetória vitoriosa no esporte, com títulos no Campeonato Brasileiro e na Liga Nacional.
+
+2. **Bruno Souza**  
+   Bruno Souza é um dos atletas mais experientes da seleção brasileira de handebol, com passagens por clubes da Europa e um grande número de títulos em competições nacionais. Ele tem sido peça-chave para a seleção brasileira, representando o Brasil em campeonatos mundiais e Jogos Pan-Americanos.
+
+3. **Hugo Nascimento**  
+   Hugo Nascimento é um dos principais jogadores de handebol do Brasil na posição de goleiro. Ele tem sido um dos destaques da seleção brasileira, com boas performances em torneios internacionais, como o Campeonato Mundial e os Jogos Pan-Americanos. Hugo é conhecido pela sua agilidade e reflexos rápidos.
+
+4. **Fábio Chiuffa**  
+   Fábio Chiuffa é um dos principais atletas da seleção brasileira de handebol. Ele tem se destacado como um dos melhores armadores do país, com uma habilidade incrível para finalizar e criar jogadas. Chiuffa tem sido um dos pilares da equipe nacional em competições internacionais, como o Campeonato Pan-Americano e o Campeonato Mundial.
+
+5. **Ricardo Moreira**  
+   Ricardo Moreira é um dos grandes nomes do handebol brasileiro. Com uma carreira consolidada no Brasil e no exterior, ele é um dos principais pontuadores da seleção brasileira e teve uma carreira brilhante no clube espanhol BM Granollers. Ricardo também foi medalhista de ouro no Campeonato Pan-Americano.
+
+**Mulheres**  
+1. **Alexandra Nascimento**  
+   Alexandra Nascimento é uma das maiores jogadoras de handebol do Brasil. Ela foi fundamental na conquista da medalha de ouro nos Jogos Pan-Americanos de 2011 e 2015 e tem uma carreira internacional consolidada, com passagens por clubes de destaque na Europa. Alexandra é uma referência para as futuras gerações do esporte.
+
+2. **Fernanda da Silva**  
+   Fernanda da Silva é uma das melhores jogadoras de handebol do Brasil, com um grande número de títulos no Campeonato Pan-Americano e competições internacionais. Sua habilidade na defesa e no ataque foi crucial para o sucesso da seleção brasileira.
+
+3. **Gabi Baccarani**  
+   Gabi Baccarani é uma das atletas mais promissoras do handebol feminino brasileiro. Ela tem se destacado tanto no Campeonato Brasileiro quanto em competições internacionais, sendo uma das jogadoras mais versáteis e de destaque no time nacional.
+
+4. **Juliana Moraes**  
+   Juliana Moraes é uma das grandes jogadoras de handebol do Brasil, com destaque pela sua habilidade na defesa e na finalização. Ela tem sido uma das principais jogadoras da seleção brasileira, com boas performances no Campeonato Pan-Americano e em competições internacionais.
+
+5. **Raquel Pereira**  
+   Raquel Pereira é uma das atletas mais consistentes da seleção brasileira de handebol. Sua capacidade de liderança e sua experiência em competições internacionais ajudaram a elevar o nível do time nas últimas edições do Campeonato Mundial e dos Jogos Pan-Americanos.
+
+---
+
+### **Hipismo**
+**Homens**  
+1. **Rodrigo Pessoa**  
+   Rodrigo Pessoa é o maior nome do hipismo brasileiro e um dos maiores do mundo. Campeão olímpico e mundial, ele se destacou por sua habilidade com os cavalos e suas vitórias em competições de saltos internacionais, incluindo a medalha de ouro nos Jogos Olímpicos de Atenas em 2004. Rodrigo é uma verdadeira lenda do esporte, com uma carreira vitoriosa.
+
+2. **César Almeida**  
+   César Almeida é um dos principais cavaleiros do Brasil, com grandes vitórias no hipismo de saltos. Ele foi medalhista de ouro no Campeonato Pan-Americano e tem se destacado em competições internacionais, sendo uma referência no esporte.
+
+3. **Marcos Pessoa**  
+   Marcos Pessoa é um dos nomes mais reconhecidos do hipismo brasileiro. Ele tem se destacado nas competições de saltos, com uma carreira internacional de sucesso, com vitórias no circuito internacional de saltos.
+
+4. **Felipe Amaral**  
+   Felipe Amaral é um cavaleiro de destaque no Brasil, com passagens importantes por torneios internacionais e resultados expressivos. Sua habilidade e sucesso no hipismo de saltos o tornaram uma das promessas do esporte.
+
+5. **Andre Paro**  
+   Andre Paro é um cavaleiro em ascensão no cenário internacional. Ele se destacou nas competições de saltos e tem se mostrado uma das grandes promessas para o futuro do hipismo no Brasil.
+
+**Mulheres**  
+1. **Ana Carolina Santucci**  
+   Ana Carolina Santucci é uma das melhores cavaleiras do Brasil, com títulos importantes em competições internacionais e campeonatos nacionais. Ela se destaca pela sua habilidade em competições de salto e também por sua liderança na equipe brasileira de hipismo.
+
+2. **Maria Luiza Ladeira**  
+   Maria Luiza Ladeira é uma cavaleira de destaque no Brasil. Com vitórias importantes no Campeonato Brasileiro e competições internacionais, ela tem sido uma das principais promessas do hipismo feminino brasileiro.
+
+3. **Karla Rangel**  
+   Karla Rangel tem sido uma das principais representantes do hipismo feminino no Brasil. Ela se destaca pela sua técnica e habilidade no salto, sendo uma das favoritas em competições nacionais e internacionais.
+
+4. **Renata Ribeiro**  
+   Renata Ribeiro é uma cavaleira em crescimento no Brasil, com boas performances em campeonatos nacionais e internacionais. Ela está se tornando uma das principais atletas do hipismo feminino no Brasil.
+
+5. **Juliana Carvalho**  
+   Juliana Carvalho é uma das promessas do hipismo no Brasil, com boa performance em torneios nacionais e internacionais. Ela é conhecida pela sua habilidade em saltos e sua dedicação ao esporte.
+*/
+
 const sources = [
   { id: 0, link: '', site: 'The Royal and Ancient Golf Club of St Andrews' },
   { id: 1, link: '', site: 'International Golf Federation (IGF)' },

@@ -47,17 +47,18 @@ const curiositiesItens = [
   { id: 'three', text: ' O ciclismo é promovido como uma forma de transporte sustentável, pois é uma alternativa ecológica aos veículos motorizados, reduzindo as emissões de carbono.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/ciclismo/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/ciclismo/athletes/.PNG', name: 'Marcio May', about: 'Maior ciclista de mountain bike do Brasil, Marcio May foi campeão pan-americano e se destacou em várias competições de ciclismo de estrada e mountain bike. Ele foi um dos pioneiros do ciclismo de aventura no país, levando o Brasil para o pódio de grandes competições.' },
+  { id: 1, picture: '/sports/ciclismo/athletes/.PNG', name: 'Murilo Fischer', about: 'Murilo Fischer é um dos maiores ciclistas de estrada do Brasil. Ele competiu em algumas das maiores provas do mundo, como o Tour de France, e foi campeão brasileiro de ciclismo por várias edições. Sua experiência e resistência o tornaram uma referência na modalidade.' },
+  { id: 2, picture: '/sports/ciclismo/athletes/.PNG', name: 'Ricardo Pscheidt', about: 'Ricardo Pscheidt se destaca no ciclismo de estrada, com vitórias importantes em campeonatos nacionais e internacionais. Ele é um dos atletas de maior renome no cenário do ciclismo brasileiro e tem sido uma peça chave na seleção nacional.' },
+  { id: 3, picture: '/sports/ciclismo/athletes/.PNG', name: 'Gustavo Diniz', about: 'Gustavo Diniz é um nome emergente no ciclismo brasileiro, com destaque em provas de resistência e competições de mountain bike. Ele tem sido um dos representantes do Brasil em competições internacionais.' },
+  { id: 4, picture: '/sports/ciclismo/athletes/.PNG', name: 'Guilherme Muller', about: 'Guilherme Muller é um dos maiores talentos da nova geração do ciclismo brasileiro, com grandes performances nas competições nacionais e internacionais. Ele está se tornando uma das principais apostas para o futuro do esporte no país.' },
+  { id: 5, picture: '/sports/ciclismo/athletes/.PNG', name: 'Jaqueline Mourão', about: 'Jaqueline Mourão é uma das ciclistas mais importantes da história do Brasil, com diversas conquistas internacionais, incluindo participações nos Jogos Olímpicos e campeonatos mundiais. Ela é a principal representante do ciclismo feminino no Brasil e também uma das grandes atletas do esporte de aventura no país.' },
+  { id: 6, picture: '/sports/ciclismo/athletes/.PNG', name: 'Flávia Oliveira', about: 'Flávia Oliveira é uma das maiores ciclistas de estrada do Brasil. Com um histórico impressionante em competições nacionais e internacionais, ela se destacou por sua força e persistência, sendo uma das grandes representantes do Brasil em provas de alto nível.' },
+  { id: 7, picture: '/sports/ciclismo/athletes/.PNG', name: 'Renata Cacau', about: 'Renata Cacau é uma ciclista que se destacou em competições internacionais, principalmente no ciclismo de estrada. Ela é uma das grandes promessas do ciclismo feminino no Brasil e tem se mostrado forte nas competições de resistência.' },
+  { id: 8, picture: '/sports/ciclismo/athletes/.PNG', name: 'Mariana Azevedo', about: 'Mariana Azevedo é uma das jovens promessas do ciclismo feminino brasileiro, com grandes performances no ciclismo de estrada. Ela foi medalhista no Campeonato' },
+  { id: 9, picture: '/sports/ciclismo/athletes/.PNG', name: 'Ana Paula Polegatch', about: 'Ana Paula Polegatch é uma das atletas mais consistentes do ciclismo feminino brasileiro, com um bom histórico em campeonatos de mountain bike e ciclismo de estrada. Ela é uma das principais representantes da modalidade no Brasil e está constantemente se aprimorando para se tornar uma referência internacional.' },
 ];
+
 const sources = [
   { id: 0, link: '', site: 'Union Cycliste Internationale (UCI)' },
   { id: 1, link: '', site: 'Olympic.org' },
