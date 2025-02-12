@@ -48,16 +48,16 @@ const curiositiesItens = [
   { id: 'three', text: 'A modalidade feminina foi introduzida nos Jogos Olímpicos de 2000, em Sydney, e desde então a participação feminina no triatlo tem crescido consideravelmente.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/triatlo/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/triatlo/athletes/.PNG', name: 'Reinaldo Colucci', about: 'Reinaldo Colucci é o principal nome do triatlo no Brasil. Ele tem uma carreira internacional destacada, com vários títulos no Campeonato Pan-Americano e o título de campeão brasileiro em diversas edições. Colucci já representou o Brasil em competições como o Campeonato Mundial de Triatlo e as Olimpíadas, sendo uma referência do esporte no país.' },
+  { id: 1, picture: '/sports/triatlo/athletes/.PNG', name: 'Vicente de Souza', about: 'Vicente de Souza é um triatleta brasileiro que se destacou no cenário internacional, participando de competições como o Campeonato Mundial de Triatlo e o Ironman. Ele também tem várias vitórias em provas de resistência e é uma das maiores referências no triatlo brasileiro.' },
+  { id: 2, picture: '/sports/triatlo/athletes/.PNG', name: 'Diogo Sclebin', about: 'Diogo Sclebin é um dos triatletas mais consistentes do Brasil, com boas participações em provas de longa distância, como o Ironman e o Campeonato Brasileiro de Triatlo. Ele também tem se destacado em competições internacionais, sendo um dos principais atletas do Brasil no esporte.' },
+  { id: 3, picture: '/sports/triatlo/athletes/.PNG', name: 'Fabio Carvalho', about: 'Fábio Carvalho é um triatleta brasileiro que ganhou destaque com várias vitórias em provas regionais e um bom desempenho em campeonatos internacionais. Ele tem uma carreira sólida, sendo um dos principais triatletas brasileiros da atualidade.' },
+  { id: 4, picture: '/sports/triatlo/athletes/.PNG', name: 'Caio Ferreira', about: 'Caio Ferreira é outro grande nome do triatlo brasileiro, conhecido por sua versatilidade e consistência. Ele tem competido em provas de alta performance, como o Ironman, e se destacado por seu nível de resistência e estratégia nas competições.' },
+  { id: 5, picture: '/sports/triatlo/athletes/.PNG', name: 'Pamella Oliveira', about: 'Pamella Oliveira é uma das maiores triatletas brasileiras da atualidade, com destaque em provas de longa distância. Ela foi campeã brasileira de triatlo em várias edições e tem sido uma das representantes mais consistentes do Brasil em competições internacionais.' },
+  { id: 6, picture: '/sports/triatlo/athletes/.PNG', name: 'Carolina Furusho', about: 'Carolina Furusho é uma das principais triatletas brasileiras, com várias vitórias em campeonatos nacionais e participações em provas internacionais. Sua habilidade na natação e ciclismo a tornam uma das favoritas nas competições de triatlo.' },
+  { id: 7, picture: '/sports/triatlo/athletes/.PNG', name: 'Sabrina Gobbi', about: 'Sabrina Gobbi é uma triatleta brasileira que se destaca no cenário nacional e internacional. Ela tem boas colocações em competições como o Campeonato Pan-Americano e o Ironman, sendo uma das grandes promessas do triatlo feminino no Brasil.' },
+  { id: 8, picture: '/sports/triatlo/athletes/.PNG', name: 'Fernanda Keller', about: 'Fernanda Keller é uma das pioneiras do triatlo feminino no Brasil. Ela tem uma carreira de destaque, com vários títulos nacionais e internacionais, incluindo conquistas no Ironman e no Campeonato Brasileiro de Triatlo. Fernanda é uma das maiores atletas da história do triatlo brasileiro.' },
+  { id: 9, picture: '/sports/triatlo/athletes/.PNG', name: 'Giselle Ferreira', about: 'Giselle Ferreira é uma triatleta em ascensão no Brasil. Ela tem se destacado em competições nacionais, especialmente no Campeonato Brasileiro de Triatlo, e tem mostrado grande potencial em provas internacionais.' },
 ];
 const sources = [
   { id: 0, link: '', site: 'International Triathlon Union (ITU)' },

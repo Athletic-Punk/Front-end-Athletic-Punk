@@ -48,17 +48,18 @@ const curiositiesItens = [
   { id: 'three', text: 'Patinadores olímpicos como Michelle Kwan e Yuzuru Hanyu são conhecidos mundialmente por suas habilidades e performances extraordinárias.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/patinacao/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/patinacao/athletes/.PNG', name: 'Diego de Oliveira', about: 'Diego de Oliveira é um dos maiores nomes da patinação artística brasileira. Ele conquistou títulos importantes em campeonatos Pan-americanos e tem sido uma grande promessa do esporte no Brasil. Seu estilo técnico e artístico tem conquistado o público e jurados em competições internacionais.' },
+  { id: 1, picture: '/sports/patinacao/athletes/.PNG', name: 'Leandro Rodrigues', about: 'Leandro Rodrigues é um dos patinadores mais destacados no Brasil, com vitórias em campeonatos nacionais e internacionais de patinação de velocidade. Sua disciplina e foco nas competições internacionais fazem dele uma referência no esporte.' },
+  { id: 2, picture: '/sports/patinacao/athletes/.PNG', name: 'Danilo Gama', about: 'Danilo Gama é outro patinador brasileiro que se destacou em competições internacionais, com boas colocações em torneios de velocidade. Ele também é conhecido por sua habilidade nas competições de pista e é um dos principais nomes da patinação no Brasil.' },
+  { id: 3, picture: '/sports/patinacao/athletes/.PNG', name: 'Felipe dos Santos', about: 'Felipe dos Santos é um nome em ascensão na patinação artística no Brasil. Ele tem se destacado tanto em competições nacionais quanto internacionais, mostrando grande capacidade técnica e artística.' },
+  { id: 4, picture: '/sports/patinacao/athletes/.PNG', name: 'Robson Freitas', about: 'Robson Freitas é um patinador de destaque, especializado em provas de velocidade. Ele conquistou boas colocações em campeonatos internacionais e continua a ser uma referência no Brasil.' },
+  { id: 5, picture: '/sports/patinacao/athletes/.PNG', name: 'Luciana Diniz', about: 'Luciana Diniz é uma das maiores patinadoras brasileiras, com um currículo impressionante em competições internacionais. Ela tem sido uma referência no Brasil, destacando-se tanto em patinação artística quanto em provas de velocidade.' },
+  { id: 6, picture: '/sports/patinacao/athletes/.PNG', name: 'Vanessa Ribeiro', about: 'Vanessa Ribeiro é uma patinadora que se destacou nas competições de patinação artística, com vitórias no Campeonato Brasileiro e bons resultados em campeonatos internacionais. Ela é uma das maiores representantes do esporte feminino no Brasil.' },
+  { id: 7, picture: '/sports/patinacao/athletes/.PNG', name: 'Juliana Mendes', about: 'Juliana Mendes é uma atleta talentosa da patinação de velocidade, com grandes performances em campeonatos nacionais e internacionais. Seu potencial tem sido amplamente reconhecido pelos especialistas no esporte.' },
+  { id: 8, picture: '/sports/patinacao/athletes/.PNG', name: 'Fernanda Oliveira', about: 'Fernanda Oliveira é uma patinadora que tem se destacado nas competições de velocidade, principalmente no Campeonato Pan-Americano. Ela é considerada uma das principais promessas do Brasil na patinação artística.' },
+  { id: 9, picture: '/sports/patinacao/athletes/.PNG', name: 'Lívia Martins', about: 'Lívia Martins é uma das principais atletas da patinação artística no Brasil, com uma carreira crescente no cenário internacional. Sua performance técnica e sua habilidade no salto chamam a atenção de juízes e público.' },
 ];
+
 const sources = [
   { id: 0, link: '', site: 'International Skating Union (ISU)' },
   { id: 1, link: '', site: 'Confederação Brasileira de Patinação (CBP)' },
