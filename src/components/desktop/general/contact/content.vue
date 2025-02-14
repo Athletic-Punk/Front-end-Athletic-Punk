@@ -3,7 +3,7 @@ const developers = [
   {
     id: 0,
     name: 'Filipe B. dos Santos',
-    position: 'FRONT-END',
+    position: '<span style="color: #FF007F">DESIGN</span>',
     picture: '/general/contact/dev/filipe.jpg',
     github: 'https://github.com/FilipeBento19',
     githubNickname: 'FilipeBento19',
@@ -36,7 +36,7 @@ const developers = [
   {
     id: 3,
     name: 'William Chormiak',
-    position: 'FRONT-END',
+    position: '<span style="color: #D9B341">FULLSTACK</span>',
     picture: '/general/contact/dev/william.jpg',
     github: 'https://github.com/WILLIAMCHOR',
     githubNickname: 'WILLIAMCHOR',

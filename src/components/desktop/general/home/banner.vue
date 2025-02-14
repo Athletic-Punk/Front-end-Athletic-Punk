@@ -10,8 +10,6 @@
         contribuindo para achar o seu esporte ideal e entender os seus benefícios para sua saúde.
       </p>
     </div>
-
-    <div></div>
   </section>
 </template>
 
