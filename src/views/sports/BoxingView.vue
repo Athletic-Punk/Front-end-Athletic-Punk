@@ -49,17 +49,18 @@ const curiositiesItens = [
   { id: 'four', text: 'O maior peso-pesado de todos os tempos, Mike Tyson, tornou-se campeão mundial aos 20 anos.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/boxe/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/boxe/athletes/.PNG', name: 'Acelino "Popó" Freitas', about: 'Um dos maiores nomes do boxe brasileiro, Popó Freitas foi bicampeão mundial nas categorias superpena e leve. Conhecido por sua técnica refinada e potência nos socos, Popó se destacou tanto no Brasil quanto no exterior, conquistando títulos mundiais na WBA e WBO. Ele também teve passagens memoráveis pelas grandes arenas de boxe, sendo um dos esportistas mais respeitados no país. Popó foi uma grande inspiração para o boxe brasileiro e se aposentou com uma carreira vitoriosa, marcada por vitórias contra grandes nomes internacionais.' },
+  { id: 1, picture: '/sports/boxe/athletes/.PNG', name: 'Robson Conceição', about: 'Robson Conceição é o primeiro brasileiro a conquistar uma medalha de ouro olímpica no boxe, feita nos Jogos Olímpicos de 2016, no Rio de Janeiro. Além disso, Robson se destacou como campeão mundial no boxe profissional, sendo um dos maiores talentos da nova geração de pugilistas brasileiros. Sua técnica apurada e sua calma dentro do ringue são suas marcas registradas, o que o coloca como uma grande promessa para o boxe mundial.' },
+  { id: 2, picture: '/sports/boxe/athletes/.PNG', name: 'Éder Jofre', about: 'Considerado um dos maiores boxeadores da história do Brasil, Éder Jofre foi campeão mundial nas categorias galo e supergalo, com destaque por sua habilidade técnica e destreza dentro do ringue. Jofre, também conhecido como "Galinho de Ouro", teve uma carreira impressionante e é amplamente reconhecido por seu legado, sendo considerado o melhor boxeador brasileiro de todos os tempos.' },
+  { id: 3, picture: '/sports/boxe/athletes/.PNG', name: 'Vanderlei "Cavalo de Aço" Silva', about: 'Vanderlei Silva é um boxeador famoso por sua força e resistência, tendo sido campeão mundial nos anos 1980. Durante sua carreira, ele conquistou respeito nas maiores arenas de boxe ao redor do mundo, sendo um ícone do esporte no Brasil.' },
+  { id: 4, picture: '/sports/boxe/athletes/.PNG', name: 'Michel Oliveira', about: 'Michel Oliveira tem sido um nome crescente no boxe brasileiro, com uma carreira de sucesso em competições internacionais. Ele já conquistou títulos nacionais e possui um futuro promissor, se destacando por sua versatilidade e força no ringue.' },
+  { id: 5, picture: '/sports/boxe/athletes/.PNG', name: 'Regiane da Silva', about: 'Regiane da Silva é uma das maiores boxeadoras brasileiras da história, com uma carreira de destaque nas competições internacionais. Ela foi campeã mundial de boxe e é considerada uma das pioneiras do boxe feminino no Brasil, representando o país em campeonatos mundiais e Jogos Olímpicos.' },
+  { id: 6, picture: '/sports/boxe/athletes/.PNG', name: 'Edivania Santos', about: 'Edivania Santos tem sido uma das boxeadoras mais talentosas do Brasil. Ela conquistou medalhas de destaque em campeonatos internacionais, incluindo o Campeonato Mundial de Boxe. Sua habilidade técnica e sua experiência dentro do ringue a colocam entre as melhores do país.' },
+  { id: 7, picture: '/sports/boxe/athletes/.PNG', name: 'Bárbara dos Santos', about: 'Bárbara dos Santos é uma boxeadora em ascensão no Brasil. Com uma carreira crescente, ela tem se destacado nas categorias de base do boxe brasileiro, e tem sido uma das grandes promessas do esporte.' },
+  { id: 8, picture: '/sports/boxe/athletes/.PNG', name: 'Jucielen Romeu', about: 'Jucielen Romeu é uma boxeadora talentosa que já conquistou vitórias importantes em torneios nacionais e internacionais. Ela foi campeã brasileira e tem se preparado para representações no cenário internacional.' },
+  { id: 9, picture: '/sports/boxe/athletes/.PNG', name: 'Chris Namús', about: 'Natural do Uruguai, mas radicada no Brasil, Chris Namús é uma das grandes referências do boxe feminino na América Latina. Com uma carreira de sucesso e títulos mundiais, ela é uma das principais representantes do boxe feminino no Brasil.' },
 ];
+
 const sources = [
   { id: 0, link: '', site: 'Federação Internacional de Boxe (IBF)' },
   { id: 1, link: '', site: 'Associação Mundial de Boxe (WBA)' },

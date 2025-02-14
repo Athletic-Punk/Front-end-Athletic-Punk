@@ -48,17 +48,20 @@ const curiositiesItens = [
   { id: 'three', text: 'O voleibol feminino também possui grande destaque, com equipes como as brasileiras conquistando medalhas em Olimpíadas e campeonatos internacionais.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/volei/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/volei/athletes/.PNG', name: 'Giba (Gilberto Godoy Filho)', about: 'Giba é um dos maiores jogadores de vôlei da história, não só do Brasil, mas do mundo. Ele foi peça fundamental nas conquistas da Seleção Brasileira em três Olimpíadas, sendo campeão olímpico em 2004, 2008 e 2016, além de ganhar diversos títulos mundiais e da Liga Mundial. Giba é considerado um dos maiores atacantes da história do esporte.' },
+  { id: 1, picture: '/sports/volei/athletes/.PNG', name: 'Ricardinho (Ricardo Garcia Braga)', about: 'Ricardinho é outro ícone do vôlei brasileiro. Ele é um dos melhores levantadores da história do esporte, com grande visão de jogo e habilidade para comandar o time. Ricardinho conquistou títulos importantes, incluindo a medalha de ouro nas Olimpíadas de 2004, além de ser campeão mundial e da Liga Mundial.' },
+  { id: 2, picture: '/sports/volei/athletes/.PNG', name: 'Murilo Endres', about: 'Murilo Endres foi um dos grandes nomes do vôlei brasileiro, com destaque em diversas edições de Jogos Olímpicos, incluindo a medalha de ouro em 2004, e vários títulos mundiais. Murilo era um atacante e defensor de grande capacidade, sendo essencial nas vitórias do Brasil no início dos anos 2000.' },
+  { id: 3, picture: '/sports/volei/athletes/.PNG', name: 'Bruno Rezende', about: 'Bruno Rezende, também conhecido como Bruninho, é um dos maiores levantadores do vôlei brasileiro. Ele foi um dos responsáveis pelas vitórias do Brasil nas Olimpíadas de 2016, além de ter conquistado títulos mundiais e da Liga Mundial, sendo peça-chave da Seleção Brasileira.' },
+  { id: 4, picture: '/sports/volei/athletes/.PNG', name: 'Wallace de Souza', about: 'Wallace de Souza é um dos grandes opostos do vôlei brasileiro. Com seu potente ataque e habilidade nas recepções, Wallace tem sido fundamental nas vitórias do Brasil, especialmente nas conquistas da Liga Mundial e da medalha de ouro nas Olimpíadas de 2016.' },
+  { id: 5, picture: '/sports/volei/athletes/.PNG', name: 'Sheilla Castro', about: 'Sheilla Castro é uma das maiores jogadoras de vôlei do Brasil, com uma carreira vitoriosa, incluindo medalhas olímpicas em 2008 e 2012, além de ser campeã mundial. Ela é reconhecida por sua força no ataque e liderança, sendo uma das principais jogadoras do time brasileiro durante mais de uma década.' },
+  { id: 6, picture: '/sports/volei/athletes/.PNG', name: 'Jaqueline Carvalho', about: 'Jaqueline Carvalho foi uma das grandes jogadoras da Seleção Brasileira, sendo bicampeã olímpica (2008 e 2012) e campeã mundial. Jaque se destacou tanto no ataque quanto na defesa, com grande presença de rede e por ser uma jogadora versátil, capaz de atuar em diversas posições.' },
+  { id: 7, picture: '/sports/volei/athletes/.PNG', name: 'Fabiola Simões', about: 'Fabiola Simões é uma das maiores levantadoras da história do vôlei brasileiro. Com sua habilidade excepcional para organizar o jogo e encontrar soluções ofensivas, Fabiola teve uma carreira vitoriosa, conquistando títulos no Campeonato Mundial e nos Jogos Olímpicos, sendo uma das jogadoras mais importantes da Seleção Brasileira.' },
+  { id: 8, picture: '/sports/volei/athletes/.PNG', name: 'Tandara Caixeta', about: 'Tandara Caixeta é uma das principais atacantes do vôlei brasileiro. Com grande potência no ataque e habilidade no bloqueio, ela tem sido uma das referências do Brasil nos últimos anos, conquistando títulos importantes, como a medalha de ouro nas Olimpíadas de 2020.' },
+  { id: 9, picture: '/sports/volei/athletes/.PNG', name: 'Natália Pereira', about: 'Natália Pereira é uma das estrelas do vôlei feminino brasileiro. Ela foi medalhista de prata nas Olimpíadas de 2012 e tem sido uma das principais atacantes da Seleção Brasileira. Sua habilidade e versatilidade são algumas das qualidades que a tornaram uma das principais jogadoras de sua geração.' },
 ];
+
+
+
 const sources = [
   { id: 0, link: '', site: 'Federação Internacional de Voleibol (FIVB)' },
   { id: 1, link: '', site: 'Confederação Brasileira de Voleibol (CBV)' },

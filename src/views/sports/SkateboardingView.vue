@@ -48,16 +48,16 @@ const curiositiesItens = [
   { id: 'three', text: 'São Paulo é considerada a "capital do skate" no Brasil, com dezenas de pistas e eventos anuais.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/skate/athletes/.webp', name: '', about: '' },
-  { id: 1, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/skate/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/skate/athletes/.webp', name: 'Pedro Barros', about: '   Pedro Barros é um dos maiores nomes do skate brasileiro e mundial, especialmente no skate vertical. Campeão mundial e medalhista olímpico, ele tem sido uma grande inspiração para a nova geração de skatistas. Sua consistência e habilidades técnicas nas competições o colocam entre os melhores do mundo.' },
+  { id: 1, picture: '/sports/skate/athletes/.PNG', name: 'Rayssa Leal', about: '   Rayssa Leal é uma das grandes promessas do skate brasileiro. Ela conquistou medalha de prata nas Olimpíadas de Tóquio 2020, com apenas 13 anos, e se tornou um ícone do skate feminino mundial. Rayssa é uma das maiores revelações do esporte no Brasil.' },
+  { id: 2, picture: '/sports/skate/athletes/.PNG', name: 'Luan Oliveira', about: '   Luan Oliveira é um skatista de destaque no Brasil, com boas participações em competições internacionais. Ele se destaca no street skate, com uma técnica refinada e várias vitórias em campeonatos internacionais. Luan é uma grande promessa para o futuro do skate brasileiro.' },
+  { id: 3, picture: '/sports/skate/athletes/.PNG', name: 'Kevin Hoefler', about: '   Kevin Hoefler é um dos principais skatistas brasileiros, com um estilo técnico e agressivo. Ele já conquistou diversas medalhas em campeonatos internacionais e tem sido um dos grandes nomes do skate street no Brasil.' },
+  { id: 4, picture: '/sports/skate/athletes/.PNG', name: 'Fabiano Nunes', about: '   Fabiano Nunes é um skatista de street que tem se destacado tanto no Brasil quanto no cenário internacional. Ele é conhecido por sua habilidade em manobras de alto grau de dificuldade e sua presença nas principais competições de skate.' },
+  { id: 5, picture: '/sports/skate/athletes/.PNG', name: 'Letícia Bufoni', about: '   Letícia Bufoni é uma das maiores skatistas brasileiras de todos os tempos. Ela é conhecida mundialmente, com várias vitórias em campeonatos internacionais e um estilo único no skate street. Letícia é uma das principais responsáveis pela popularização do skate feminino no Brasil e tem sido uma grande referência para as novas gerações.' },
+  { id: 6, picture: '/sports/skate/athletes/.PNG', name: 'Pamela Rosa', about: '   Pamela Rosa é uma das maiores estrelas do skate brasileiro, com títulos mundiais e medalhas olímpicas. Especialista no street skate, ela se tornou a primeira brasileira a ganhar um título mundial de skate e foi uma das maiores representantes do Brasil nos Jogos Olímpicos de Tóquio 2020.' },
+  { id: 7, picture: '/sports/skate/athletes/.PNG', name: 'Yndiara Asp', about: '   Yndiara Asp é uma skatista que se destaca no circuito internacional, especialmente no skate vertical. Ela já foi campeã mundial e é uma das principais referências para o skate feminino no Brasil e no mundo.' },
+  { id: 8, picture: '/sports/skate/athletes/.PNG', name: 'Raquel de Souza', about: '   Raquel de Souza é uma skatista de destaque no Brasil, com várias participações em campeonatos internacionais e boas colocações. Ela tem sido uma das representantes do Brasil no skate feminino, especialmente no street skate.' },
+  { id: 9, picture: '/sports/skate/athletes/.PNG', name: 'Gabriela Manzini', about: '   Gabriela Manzini é uma das grandes promessas do skate feminino brasileiro, com destaque nas competições nacionais e internacionais. Sua técnica e habilidade nas manobras colocam Gabriela como uma das maiores apostas para o futuro do esporte no Brasil.' },
 ];
 const sources = [
   { id: 0, link: '', site: 'Confederação Brasileira de Skate (CBSk)' },

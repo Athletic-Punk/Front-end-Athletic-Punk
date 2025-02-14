@@ -48,16 +48,16 @@ const curiositiesItens = [
   { id: 'three', text: 'O judô é o esporte que mais trouxe medalhas olímpicas ao Brasil, somando mais de 20 pódios.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/judo/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/judo/athletes/.PNG', name: 'Rafael Silva', about: 'Rafael Silva, conhecido como "Baby", é um dos judocas mais exitosos do Brasil. Campeão mundial em 2013, ele também tem uma medalha olímpica de bronze, conquistada nos Jogos Olímpicos de 2016. Seu estilo de combate baseado em força e técnica de quedas o torna um dos grandes nomes do judô mundial.   ' },
+  { id: 1, picture: '/sports/judo/athletes/.PNG', name: 'Felipe Kitadai', about: 'Felipe Kitadai é um dos maiores judocas do Brasil, com destaque na categoria até 60 kg. Ele conquistou a medalha de bronze nas Olimpíadas de Londres 2012 e várias medalhas em competições internacionais, como o Campeonato Pan-Americano. Kitadai é um exemplo de perseverança e técnica no judô.' },
+  { id: 2, picture: '/sports/judo/athletes/.PNG', name: 'Leandro Guilheiro', about: 'Leandro Guilheiro é um dos principais nomes do judô brasileiro, com uma carreira vitoriosa, incluindo medalha de bronze nas Olimpíadas de Atenas 2004. Especialista na categoria até 66 kg, ele conquistou diversas medalhas em competições internacionais e foi uma referência no judô brasileiro por muitos anos.' },
+  { id: 3, picture: '/sports/judo/athletes/.PNG', name: 'Douglas Evangelista', about: 'Douglas Evangelista é outro judoca brasileiro que se destacou em competições internacionais. Ele foi medalhista em campeonatos Pan-Americanos e em competições de nível mundial, contribuindo significativamente para o crescimento do judô no Brasil.' },
+  { id: 4, picture: '/sports/judo/athletes/.PNG', name: 'David Moura', about: 'David Moura é um dos principais nomes do judô brasileiro na categoria acima de 100 kg. Ele conquistou o bronze no Campeonato Mundial de 2015 e tem se destacado como um dos maiores atletas da categoria no cenário internacional.' },
+  { id: 5, picture: '/sports/judo/athletes/.PNG', name: 'Sarah Menezes', about: 'Sarah Menezes é uma das maiores judocas do Brasil e uma das atletas mais vitoriosas. Ela se tornou campeã olímpica em Londres 2012, na categoria até 48 kg, sendo a primeira brasileira a conquistar o ouro olímpico no judô. Sarah também tem uma coleção de medalhas em campeonatos mundiais e Pan-americanos.' },
+  { id: 6, picture: '/sports/judo/athletes/.PNG', name: 'Rafaela Silva', about: 'Rafaela Silva é campeã olímpica e uma das maiores judocas da história do Brasil. Ela conquistou a medalha de ouro nas Olimpíadas do Rio 2016, na categoria até 57 kg, e foi uma das grandes responsáveis pelo sucesso do judô feminino brasileiro nas últimas décadas. Além disso, Rafaela tem sido uma presença constante nas medalhas de ouro em torneios internacionais.' },
+  { id: 7, picture: '/sports/judo/athletes/.PNG', name: 'Mayra Aguiar', about: 'Mayra Aguiar é uma das maiores judocas brasileiras, com três medalhas de bronze em campeonatos mundiais e várias vitórias em competições internacionais. Especialista na categoria até 78 kg, Mayra tem sido uma das atletas mais consistentes do judô feminino brasileiro.' },
+  { id: 8, picture: '/sports/judo/athletes/.PNG', name: 'Tamires Crude', about: 'Tamires Crude é uma judoca brasileira que se destacou nas competições internacionais, especialmente no Campeonato Pan-Americano. Ela tem sido uma grande representante do judô brasileiro em sua categoria e continua a ser uma forte presença em torneios de alto nível.' },
+  { id: 9, picture: '/sports/judo/athletes/.PNG', name: 'Jessica Pereira', about: 'Jessica Pereira tem se destacado no judô brasileiro, especialmente em competições internacionais como o Campeonato Pan-Americano e o Campeonato Mundial. Ela é uma das atletas mais promissoras do judô feminino no Brasil.' },
 ];
 const sources = [
   { id: 0, link: 'https://www.cbj.com.br', site: 'Confederação Brasileira de Judô (CBJ)' },

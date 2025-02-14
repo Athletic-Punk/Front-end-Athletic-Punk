@@ -48,17 +48,18 @@ const curiositiesItens = [
   { id: 'three', text: 'A Dinamarca e a França são as maiores potências do handebol mundial masculino.' }
 ];
 const ourAthletes = [
-  { id: 0, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 1, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 2, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 3, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 4, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 5, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 6, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 7, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 8, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
-  { id: 9, picture: '/sports/handebol/athletes/.PNG', name: '', about: '' },
+  { id: 0, picture: '/sports/handebol/athletes/.PNG', name: 'Thiago Alves', about: '   Thiago Alves é um dos maiores jogadores de handebol do Brasil, com uma carreira marcada por grandes vitórias tanto em clubes nacionais quanto internacionais. Ele foi parte fundamental da seleção brasileira que conquistou a medalha de prata no Campeonato Mundial de 2013 e tem uma trajetória vitoriosa no esporte, com títulos no Campeonato Brasileiro e na Liga Nacional.' },
+  { id: 1, picture: '/sports/handebol/athletes/.PNG', name: 'Bruno Souza', about: '   Bruno Souza é um dos atletas mais experientes da seleção brasileira de handebol, com passagens por clubes da Europa e um grande número de títulos em competições nacionais. Ele tem sido peça-chave para a seleção brasileira, representando o Brasil em campeonatos mundiais e Jogos Pan-Americanos.' },
+  { id: 2, picture: '/sports/handebol/athletes/.PNG', name: 'Hugo Nascimento', about: '   Hugo Nascimento é um dos principais jogadores de handebol do Brasil na posição de goleiro. Ele tem sido um dos destaques da seleção brasileira, com boas performances em torneios internacionais, como o Campeonato Mundial e os Jogos Pan-Americanos. Hugo é conhecido pela sua agilidade e reflexos rápidos.' },
+  { id: 3, picture: '/sports/handebol/athletes/.PNG', name: 'Fábio Chiuffa', about: '   Fábio Chiuffa é um dos principais atletas da seleção brasileira de handebol. Ele tem se destacado como um dos melhores armadores do país, com uma habilidade incrível para finalizar e criar jogadas. Chiuffa tem sido um dos pilares da equipe nacional em competições internacionais, como o Campeonato Pan-Americano e o Campeonato Mundial.' },
+  { id: 4, picture: '/sports/handebol/athletes/.PNG', name: 'Ricardo Moreira', about: 'Ricardo Moreira é um dos grandes nomes do handebol brasileiro. Com uma carreira consolidada no Brasil e no exterior, ele é um dos principais pontuadores da seleção brasileira e teve uma carreira brilhante no clube espanhol BM Granollers. Ricardo também foi medalhista de ouro no Campeonato Pan-Americano.' },
+  { id: 5, picture: '/sports/handebol/athletes/.PNG', name: 'Alexandra Nascimento', about: '   Alexandra Nascimento é uma das maiores jogadoras de handebol do Brasil. Ela foi fundamental na conquista da medalha de ouro nos Jogos Pan-Americanos de 2011 e 2015 e tem uma carreira internacional consolidada, com passagens por clubes de destaque na Europa. Alexandra é uma referência para as futuras gerações do esporte.' },
+  { id: 6, picture: '/sports/handebol/athletes/.PNG', name: 'Fernanda da Silva', about: '   Fernanda da Silva é uma das melhores jogadoras de handebol do Brasil, com um grande número de títulos no Campeonato Pan-Americano e competições internacionais. Sua habilidade na defesa e no ataque foi crucial para o sucesso da seleção brasileira.' },
+  { id: 7, picture: '/sports/handebol/athletes/.PNG', name: 'Gabi Baccarani', about: '   Gabi Baccarani é uma das atletas mais promissoras do handebol feminino brasileiro. Ela tem se destacado tanto no Campeonato Brasileiro quanto em competições internacionais, sendo uma das jogadoras mais versáteis e de destaque no time nacional.' },
+  { id: 8, picture: '/sports/handebol/athletes/.PNG', name: 'Juliana Moraes', about: '   Juliana Moraes é uma das grandes jogadoras de handebol do Brasil, com destaque pela sua habilidade na defesa e na finalização. Ela tem sido uma das principais jogadoras da seleção brasileira, com boas performances no Campeonato Pan-Americano e em competições internacionais.' },
+  { id: 9, picture: '/sports/handebol/athletes/.PNG', name: 'Raquel Pereira', about: '   Raquel Pereira é uma das atletas mais consistentes da seleção brasileira de handebol. Sua capacidade de liderança e sua experiência em competições internacionais ajudaram a elevar o nível do time nas últimas edições do Campeonato Mundial e dos Jogos Pan-Americanos.' },
 ];
+
 const sources = [
   { id: 0, link: '', site: 'Federação Internacional de Handebol (IHF)' },
   { id: 1, link: '', site: 'Confederação Brasileira de Handebol (CBHb)' },
