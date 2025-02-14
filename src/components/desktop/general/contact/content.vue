@@ -40,8 +40,8 @@ const developers = [
     picture: '/general/contact/dev/william.jpg',
     github: 'https://github.com/WILLIAMCHOR',
     githubNickname: 'WILLIAMCHOR',
-    instagram: 'https://www.instagram.com/chormiak_junior/',
-    instagramNickname: 'chormiak_junior',
+    instagram: 'https://www.instagram.com/chormiak_william/',
+    instagramNickname: 'chormiak_william',
     whatsapp: '(47) 99138-0305',
   },
 ]
