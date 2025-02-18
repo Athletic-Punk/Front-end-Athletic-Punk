@@ -160,7 +160,11 @@ section {
               padding: 2vw;
             }
           }
-
+          .front img {
+            width: 23vw;
+            height: 23vw;
+            object-fit: cover;
+          }
           .front,
           .back {
             position: absolute;
